@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-19T16:08:31.096485",
+  "last_update": "2026-03-19T16:42:05.238461",
   "users": [
     {
       "handle": "anoslide",
@@ -20,6 +20,15 @@
       "solvedCount": 300
     },
     {
+      "handle": "ziyvoo",
+      "rating": 1568,
+      "maxRating": 1569,
+      "rank": "specialist",
+      "recentContest": "Codeforces Round 1046 (Div. 2)",
+      "ratingChange": 14,
+      "solvedCount": 316
+    },
+    {
       "handle": "Tbat",
       "rating": 1453,
       "maxRating": 1453,
@@ -36,6 +45,33 @@
       "recentContest": "Codeforces Round 1079 (Div. 2)",
       "ratingChange": -10,
       "solvedCount": 332
+    },
+    {
+      "handle": "wert2353",
+      "rating": 1409,
+      "maxRating": 1503,
+      "rank": "specialist",
+      "recentContest": "Codeforces Round 1085 (Div. 1 + Div. 2)",
+      "ratingChange": 47,
+      "solvedCount": 110
+    },
+    {
+      "handle": "Ayake",
+      "rating": 1386,
+      "maxRating": 1537,
+      "rank": "pupil",
+      "recentContest": "Educational Codeforces Round 188 (Rated for Div. 2)",
+      "ratingChange": -20,
+      "solvedCount": 218
+    },
+    {
+      "handle": "_HP",
+      "rating": 1379,
+      "maxRating": 1379,
+      "rank": "pupil",
+      "recentContest": "Educational Codeforces Round 188 (Rated for Div. 2)",
+      "ratingChange": 30,
+      "solvedCount": 153
     },
     {
       "handle": "iyu0",
@@ -56,13 +92,256 @@
       "solvedCount": 393
     },
     {
-      "handle": "cola2100",
-      "rating": 1289,
-      "maxRating": 1410,
+      "handle": "zygnb",
+      "rating": 1257,
+      "maxRating": 1333,
       "rank": "pupil",
-      "recentContest": "Codeforces Round 1044 (Div. 2)",
-      "ratingChange": -36,
-      "solvedCount": 406
+      "recentContest": "Educational Codeforces Round 188 (Rated for Div. 2)",
+      "ratingChange": -2,
+      "solvedCount": 780
+    },
+    {
+      "handle": "biyuf",
+      "rating": 1238,
+      "maxRating": 1280,
+      "rank": "pupil",
+      "recentContest": "Educational Codeforces Round 188 (Rated for Div. 2)",
+      "ratingChange": 1,
+      "solvedCount": 95
+    },
+    {
+      "handle": "discovery…",
+      "rating": 1232,
+      "maxRating": 1424,
+      "rank": "pupil",
+      "recentContest": "无",
+      "ratingChange": 0,
+      "solvedCount": 0
+    },
+    {
+      "handle": "zhaokx12.",
+      "rating": 1226,
+      "maxRating": 1330,
+      "rank": "pupil",
+      "recentContest": "Educational Codeforces Round 188 (Rated for Div. 2)",
+      "ratingChange": -52,
+      "solvedCount": 222
+    },
+    {
+      "handle": "liyyuu",
+      "rating": 1222,
+      "maxRating": 1261,
+      "rank": "pupil",
+      "recentContest": "Educational Codeforces Round 188 (Rated for Div. 2)",
+      "ratingChange": -11,
+      "solvedCount": 195
+    },
+    {
+      "handle": "buhuizuo",
+      "rating": 1182,
+      "maxRating": 1255,
+      "rank": "newbie",
+      "recentContest": "Educational Codeforces Round 188 (Rated for Div. 2)",
+      "ratingChange": -23,
+      "solvedCount": 106
+    },
+    {
+      "handle": "XYZz-",
+      "rating": 1108,
+      "maxRating": 1108,
+      "rank": "newbie",
+      "recentContest": "Codeforces Round 1085 (Div. 1 + Div. 2)",
+      "ratingChange": 61,
+      "solvedCount": 56
+    },
+    {
+      "handle": "monesytop1",
+      "rating": 1064,
+      "maxRating": 1064,
+      "rank": "newbie",
+      "recentContest": "Codeforces Round 1083 (Div. 2)",
+      "ratingChange": 34,
+      "solvedCount": 67
+    },
+    {
+      "handle": "ANQILEI",
+      "rating": 1039,
+      "maxRating": 1040,
+      "rank": "newbie",
+      "recentContest": "Educational Codeforces Round 188 (Rated for Div. 2)",
+      "ratingChange": 28,
+      "solvedCount": 44
+    },
+    {
+      "handle": "wwac",
+      "rating": 1033,
+      "maxRating": 1033,
+      "rank": "newbie",
+      "recentContest": "Codeforces Round 1079 (Div. 2)",
+      "ratingChange": 64,
+      "solvedCount": 24
+    },
+    {
+      "handle": "zhengxiaomei",
+      "rating": 1030,
+      "maxRating": 1030,
+      "rank": "newbie",
+      "recentContest": "Codeforces Round 1084 (Div. 3)",
+      "ratingChange": 2,
+      "solvedCount": 25
+    },
+    {
+      "handle": "Ljzmlx",
+      "rating": 995,
+      "maxRating": 1018,
+      "rank": "newbie",
+      "recentContest": "Codeforces Round 1084 (Div. 3)",
+      "ratingChange": 32,
+      "solvedCount": 54
+    },
+    {
+      "handle": "ttwansuiye",
+      "rating": 992,
+      "maxRating": 1000,
+      "rank": "newbie",
+      "recentContest": "Educational Codeforces Round 188 (Rated for Div. 2)",
+      "ratingChange": 28,
+      "solvedCount": 20
+    },
+    {
+      "handle": "mky0800",
+      "rating": 975,
+      "maxRating": 975,
+      "rank": "newbie",
+      "recentContest": "Educational Codeforces Round 188 (Rated for Div. 2)",
+      "ratingChange": 147,
+      "solvedCount": 22
+    },
+    {
+      "handle": "1122333423",
+      "rating": 971,
+      "maxRating": 1029,
+      "rank": "newbie",
+      "recentContest": "Educational Codeforces Round 188 (Rated for Div. 2)",
+      "ratingChange": 12,
+      "solvedCount": 26
+    },
+    {
+      "handle": "jim_jrodan",
+      "rating": 968,
+      "maxRating": 997,
+      "rank": "newbie",
+      "recentContest": "Educational Codeforces Round 188 (Rated for Div. 2)",
+      "ratingChange": 37,
+      "solvedCount": 54
+    },
+    {
+      "handle": "s1fzzz",
+      "rating": 966,
+      "maxRating": 1052,
+      "rank": "newbie",
+      "recentContest": "Educational Codeforces Round 188 (Rated for Div. 2)",
+      "ratingChange": -79,
+      "solvedCount": 55
+    },
+    {
+      "handle": "LHY0715",
+      "rating": 959,
+      "maxRating": 1034,
+      "rank": "newbie",
+      "recentContest": "Educational Codeforces Round 188 (Rated for Div. 2)",
+      "ratingChange": -52,
+      "solvedCount": 25
+    },
+    {
+      "handle": "zhangzhengzheng",
+      "rating": 906,
+      "maxRating": 948,
+      "rank": "newbie",
+      "recentContest": "Educational Codeforces Round 188 (Rated for Div. 2)",
+      "ratingChange": -4,
+      "solvedCount": 27
+    },
+    {
+      "handle": "likunpeng",
+      "rating": 900,
+      "maxRating": 1060,
+      "rank": "newbie",
+      "recentContest": "Educational Codeforces Round 188 (Rated for Div. 2)",
+      "ratingChange": -71,
+      "solvedCount": 26
+    },
+    {
+      "handle": "xing_he",
+      "rating": 858,
+      "maxRating": 858,
+      "rank": "newbie",
+      "recentContest": "Educational Codeforces Round 187 (Rated for Div. 2)",
+      "ratingChange": 69,
+      "solvedCount": 10
+    },
+    {
+      "handle": "xtwaaa",
+      "rating": 855,
+      "maxRating": 966,
+      "rank": "newbie",
+      "recentContest": "Codeforces Round 1084 (Div. 3)",
+      "ratingChange": -38,
+      "solvedCount": 53
+    },
+    {
+      "handle": "Cutee",
+      "rating": 830,
+      "maxRating": 906,
+      "rank": "newbie",
+      "recentContest": "Educational Codeforces Round 188 (Rated for Div. 2)",
+      "ratingChange": -59,
+      "solvedCount": 16
+    },
+    {
+      "handle": "changf",
+      "rating": 807,
+      "maxRating": 950,
+      "rank": "newbie",
+      "recentContest": "Educational Codeforces Round 188 (Rated for Div. 2)",
+      "ratingChange": -79,
+      "solvedCount": 15
+    },
+    {
+      "handle": "DAIPUTAO",
+      "rating": 777,
+      "maxRating": 956,
+      "rank": "newbie",
+      "recentContest": "Codeforces Round 1082 (Div. 2)",
+      "ratingChange": -28,
+      "solvedCount": 19
+    },
+    {
+      "handle": "zwq123180",
+      "rating": 750,
+      "maxRating": 883,
+      "rank": "newbie",
+      "recentContest": "Educational Codeforces Round 188 (Rated for Div. 2)",
+      "ratingChange": -9,
+      "solvedCount": 33
+    },
+    {
+      "handle": "w19511030691",
+      "rating": 736,
+      "maxRating": 877,
+      "rank": "newbie",
+      "recentContest": "Educational Codeforces Round 188 (Rated for Div. 2)",
+      "ratingChange": -15,
+      "solvedCount": 14
+    },
+    {
+      "handle": "lichenhao",
+      "rating": 0,
+      "maxRating": 0,
+      "rank": "unrated",
+      "recentContest": "无",
+      "ratingChange": 0,
+      "solvedCount": 15
     }
   ]
 }
