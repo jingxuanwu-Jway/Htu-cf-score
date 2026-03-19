@@ -1,0 +1,68 @@
+{
+  "last_update": "2026-03-19T16:08:31.096485",
+  "users": [
+    {
+      "handle": "anoslide",
+      "rating": 1585,
+      "maxRating": 1585,
+      "rank": "specialist",
+      "recentContest": "Educational Codeforces Round 188 (Rated for Div. 2)",
+      "ratingChange": 49,
+      "solvedCount": 221
+    },
+    {
+      "handle": "Yhh7.",
+      "rating": 1573,
+      "maxRating": 1707,
+      "rank": "specialist",
+      "recentContest": "Educational Codeforces Round 188 (Rated for Div. 2)",
+      "ratingChange": 2,
+      "solvedCount": 300
+    },
+    {
+      "handle": "Tbat",
+      "rating": 1453,
+      "maxRating": 1453,
+      "rank": "specialist",
+      "recentContest": "Educational Codeforces Round 188 (Rated for Div. 2)",
+      "ratingChange": 18,
+      "solvedCount": 338
+    },
+    {
+      "handle": "yokin",
+      "rating": 1434,
+      "maxRating": 1444,
+      "rank": "specialist",
+      "recentContest": "Codeforces Round 1079 (Div. 2)",
+      "ratingChange": -10,
+      "solvedCount": 332
+    },
+    {
+      "handle": "iyu0",
+      "rating": 1311,
+      "maxRating": 1371,
+      "rank": "pupil",
+      "recentContest": "Educational Codeforces Round 188 (Rated for Div. 2)",
+      "ratingChange": -2,
+      "solvedCount": 429
+    },
+    {
+      "handle": "maj_22",
+      "rating": 1300,
+      "maxRating": 1374,
+      "rank": "pupil",
+      "recentContest": "Educational Codeforces Round 188 (Rated for Div. 2)",
+      "ratingChange": -28,
+      "solvedCount": 393
+    },
+    {
+      "handle": "cola2100",
+      "rating": 1289,
+      "maxRating": 1410,
+      "rank": "pupil",
+      "recentContest": "Codeforces Round 1044 (Div. 2)",
+      "ratingChange": -36,
+      "solvedCount": 406
+    }
+  ]
+}
