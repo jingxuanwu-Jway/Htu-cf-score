@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-21T08:38:47.307914",
+  "last_update": "2026-03-21T09:36:50.808930",
   "users": [
     {
       "handle": "anoslide",
@@ -35,7 +35,7 @@
       "rank": "specialist",
       "recentContest": "Educational Codeforces Round 188 (Rated for Div. 2)",
       "ratingChange": 18,
-      "solvedCount": 339
+      "solvedCount": 340
     },
     {
       "handle": "yokin",
@@ -125,7 +125,7 @@
       "rank": "pupil",
       "recentContest": "Educational Codeforces Round 188 (Rated for Div. 2)",
       "ratingChange": -52,
-      "solvedCount": 225
+      "solvedCount": 226
     },
     {
       "handle": "liyyuu",
@@ -179,7 +179,7 @@
       "rank": "newbie",
       "recentContest": "Codeforces Round 1079 (Div. 2)",
       "ratingChange": 64,
-      "solvedCount": 27
+      "solvedCount": 28
     },
     {
       "handle": "zhengxiaomei",
