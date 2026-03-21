@@ -7,49 +7,89 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
         body { background-color: #f8f9fa; padding-top: 2rem; }
+        .table-hover tbody tr { cursor: pointer; } /* 鼠标悬停变手型，提示可点击 */
         .table-hover tbody tr:hover { background-color: #f1f3f5; }
+        
         /* CF 官方颜色系统 */
-        .cf-legendary-grandmaster { color: #FF0000; font-weight: bold; }
-        .cf-legendary-grandmaster::first-letter { color: #000000; }
-        .cf-international-grandmaster { color: #FF0000; font-weight: bold; }
-        .cf-grandmaster { color: #FF0000; font-weight: bold; }
-        .cf-international-master { color: #FF8C00; font-weight: bold; }
-        .cf-master { color: #FF8C00; font-weight: bold; }
-        .cf-candidate-master { color: #AA00AA; font-weight: bold; }
-        .cf-expert { color: #0000FF; font-weight: bold; }
-        .cf-specialist { color: #03A89E; font-weight: bold; }
-        .cf-pupil { color: #008000; font-weight: bold; }
-        .cf-newbie { color: #808080; font-weight: bold; }
-        .cf-unrated { color: #000000; font-weight: normal; }
+        .cf-legendary-grandmaster { color: #FF0000 !important; font-weight: bold; }
+        .cf-legendary-grandmaster::first-letter { color: #000000 !important; }
+        .cf-international-grandmaster { color: #FF0000 !important; font-weight: bold; }
+        .cf-grandmaster { color: #FF0000 !important; font-weight: bold; }
+        .cf-international-master { color: #FF8C00 !important; font-weight: bold; }
+        .cf-master { color: #FF8C00 !important; font-weight: bold; }
+        .cf-candidate-master { color: #AA00AA !important; font-weight: bold; }
+        .cf-expert { color: #0000FF !important; font-weight: bold; }
+        .cf-specialist { color: #03A89E !important; font-weight: bold; }
+        .cf-pupil { color: #008000 !important; font-weight: bold; }
+        .cf-newbie { color: #808080 !important; font-weight: bold; }
+        .cf-unrated { color: #000000 !important; font-weight: normal; }
+
+        /* 详情页浮窗样式 */
+        .modal-header { border-bottom: none; padding-bottom: 0; }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1 class="text-center mb-4">🏆 竞赛队 Codeforces 实时积分榜</h1>
+        <h1 class="text-center mb-1">🏆 竞赛队 CF 积分榜</h1>
+        <p class="text-center text-muted mb-4">点击任意一行查看个人历史分数折线图</p >
         <p class="text-center text-muted" id="update-time">最后更新时间：加载中...</p >
         
         <div class="table-responsive shadow-sm rounded bg-white p-3">
-            <table class="table table-hover align-middle text-center">
+            <table class="table table-hover align-middle text-center" id="leaderboard-table">
                 <thead class="table-dark">
                     <tr>
                         <th>排名</th>
+                        <th>姓名</th>
+                        <th>年级</th>
                         <th>Handle</th>
                         <th>当前分数</th>
                         <th>最高分数</th>
                         <th>刷题量 (AC)</th>
-                        <th>最近比赛</th>
                         <th>最近表现</th>
                     </tr>
                 </thead>
                 <tbody id="leaderboard-body">
-                    <tr><td colspan="7">正在获取数据，请稍候...</td></tr>
+                    <tr><td colspan="8">正在获取数据，请稍候...</td></tr>
                 </tbody>
             </table>
         </div>
     </div>
 
+    <div class="modal fade" id="userModal" tabindex="-1" aria-hidden="true">
+        <div class="modal-dialog modal-lg modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header d-flex justify-content-between align-items-center">
+                    <div>
+                        <h3 class="modal-title d-inline-block me-2" id="modalName">姓名</h3>
+                        <span class="fs-5" id="modalHandleName">Handle</span>
+                    </div>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="row text-center mb-3 mt-2">
+                        <div class="col-4"><h5>当前: <span id="modalCurrentRating">-</span></h5></div>
+                        <div class="col-4"><h5>最高: <span id="modalMaxRating">-</span></h5></div>
+                        <div class="col-4"><h5>AC数: <span id="modalSolved">-</span></h5></div>
+                    </div>
+                    <div class="chart-container" style="position: relative; height:40vh; width:100%">
+                        <canvas id="ratingChart"></canvas>
+                    </div>
+                    <div class="text-center mt-3">
+                        <a id="cfProfileLink" href=" " target="_blank" class="btn btn-outline-primary btn-sm">访问主页</a >
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@3.0.0/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
+
     <script>
-        // 根据段位名称返回对应的 CSS 类名
+        let currentChart = null;
+        let userDataCache = {}; 
+
         function getCfColorClass(rank) {
             if (!rank) return 'cf-unrated';
             const rankMap = {
@@ -69,11 +109,9 @@
 
         async function loadData() {
             try {
-                // 读取同目录下的 data.json，加上时间戳防止浏览器缓存老数据
                 const response = await fetch(`data.json?t=${new Date().getTime()}`);
                 const data = await response.json();
                 
-                // 格式化更新时间
                 const updateDate = new Date(data.last_update);
                 document.getElementById('update-time').innerText = `最后更新时间：${updateDate.toLocaleString()}`;
 
@@ -81,9 +119,10 @@
                 tbody.innerHTML = '';
 
                 data.users.forEach((user, index) => {
+                    userDataCache[user.handle] = user;
+
                     const colorClass = getCfColorClass(user.rank);
                     
-                    // 分数变化格式化 (涨分用绿色带+, 掉分用红色)
                     let changeHtml = `<span class="text-muted">0</span>`;
                     if (user.ratingChange > 0) {
                         changeHtml = `<span class="text-success fw-bold">+${user.ratingChange} ↗</span>`;
@@ -92,25 +131,105 @@
                     }
 
                     const row = `
-                        <tr>
+                        <tr onclick="showUserDetail('${user.handle}')">
                             <td class="fw-bold">${index + 1}</td>
-                            <td><a href=" " target="_blank" class="text-decoration-none ${colorClass}">${user.handle}</a ></td>
+                            <td class="fw-bold">${user.name || '-'}</td>
+                            <td><span class="badge bg-secondary">${user.grade || '-'}</span></td>
+                            <td><span class="${colorClass}">${user.handle}</span></td>
                             <td class="fw-bold ${colorClass}">${user.rating === 0 ? '-' : user.rating}</td>
                             <td class="text-muted">${user.maxRating === 0 ? '-' : user.maxRating}</td>
                             <td class="fw-bold text-primary">${user.solvedCount}</td>
-                            <td class="text-truncate" style="max-width: 200px;" title="${user.recentContest}">${user.recentContest}</td>
                             <td>${changeHtml}</td>
                         </tr>
                     `;
                     tbody.innerHTML += row;
                 });
             } catch (error) {
-                console.error("加载数据失败:", error);
-                document.getElementById('leaderboard-body').innerHTML = `<tr><td colspan="7" class="text-danger">数据加载失败，请检查 data.json 是否存在。</td></tr>`;
+                console.error("Failed to load data:", error);
+                document.getElementById('leaderboard-body').innerHTML = `<tr><td colspan="8" class="text-danger">数据加载失败，请检查 data.json。这可能是因为你还没有更新 Python 脚本，或者 Actions 还没运行完。</td></tr>`;
             }
         }
 
-        // 页面加载完成后立即执行
+        async function showUserDetail(handle) {
+            const user = userDataCache[handle];
+            if (!user) return;
+
+            const colorClass = getCfColorClass(user.rank);
+            
+            // 填充姓名和 Handle
+            document.getElementById('modalName').innerText = user.name || user.handle;
+            const handleSpan = document.getElementById('modalHandleName');
+            handleSpan.innerText = `(${user.handle})`;
+            handleSpan.className = `fs-5 ${colorClass}`;
+            
+            document.getElementById('modalCurrentRating').innerText = user.rating || '-';
+            document.getElementById('modalCurrentRating').className = colorClass;
+            document.getElementById('modalMaxRating').innerText = user.maxRating || '-';
+            document.getElementById('modalSolved').innerText = user.solvedCount;
+            document.getElementById('cfProfileLink').href = `https://codeforces.com/profile/${user.handle}`;
+
+            const userModal = new bootstrap.Modal(document.getElementById('userModal'));
+            userModal.show();
+
+            await renderRatingChart(handle);
+        }
+
+        async function renderRatingChart(handle) {
+            const ctx = document.getElementById('ratingChart').getContext('2d');
+            
+            if (currentChart) {
+                currentChart.destroy();
+            }
+            ctx.clearRect(0, 0, ctx.canvas.width, ctx.canvas.height);
+
+            try {
+                const resp = await fetch(`https://codeforces.com/api/user.rating?handle=${handle}`);
+                const json = await resp.json();
+                
+                if (json.status !== 'OK' || json.result.length === 0) return;
+
+                const chartData = json.result.map(entry => ({
+                    x: entry.ratingUpdateTimeSeconds * 1000,
+                    y: entry.newRating
+                }));
+
+                currentChart = new Chart(ctx, {
+                    type: 'line',
+                    data: {
+                        datasets: [{
+                            label: 'Rating',
+                            data: chartData,
+                            borderColor: '#3e95cd',
+                            backgroundColor: 'rgba(62, 149, 205, 0.1)',
+                            fill: true,
+                            tension: 0.2,
+                            borderWidth: 2,
+                            pointRadius: 1
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        scales: {
+                            x: { type: 'time', time: { unit: 'month' } },
+                            y: { grace: '5%' }
+                        },
+                        plugins: {
+                            legend: { display: false },
+                            tooltip: {
+                                callbacks: {
+                                    title: (context) => new Date(context[0].raw.x).toLocaleDateString(),
+                                    label: (context) => ` Rating: ${context.raw.y}`
+                                }
+                            }
+                        }
+                    }
+                });
+            } catch (error) {
+                console.error("Failed to fetch rating history:", error);
+            }
+        }
+
         window.onload = loadData;
     </script>
 </body>
