@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-21T09:36:50.808930",
+  "last_update": "2026-03-21T10:32:12.362863",
   "users": [
     {
       "handle": "anoslide",
@@ -125,7 +125,7 @@
       "rank": "pupil",
       "recentContest": "Educational Codeforces Round 188 (Rated for Div. 2)",
       "ratingChange": -52,
-      "solvedCount": 226
+      "solvedCount": 227
     },
     {
       "handle": "liyyuu",
@@ -341,7 +341,7 @@
       "rank": "unrated",
       "recentContest": "无",
       "ratingChange": 0,
-      "solvedCount": 15
+      "solvedCount": 16
     }
   ]
 }
