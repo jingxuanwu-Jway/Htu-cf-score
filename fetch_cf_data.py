@@ -6,7 +6,7 @@ from datetime import datetime
 # 🌟 在这里配置你们队员的 真实姓名、年级 和 CF Handle
 TEAM_MEMBERS = [
     {"name": "侯轶棠", "grade": "2025 级", "handle": "biyuf"},
-    {"name": "栗晟皓", "grade": "2024 级", "handle": "lichenhao"},
+    {"name": "栗晟皓", "grade": "2024 级", "handle": "lichenghao"},
     {"name": "李宇恒", "grade": "2025 级", "handle": "liyyuu"},
     {"name": "张正正", "grade": "2024 级", "handle": "zhangzhengzheng"},
     {"name": "李昶昊", "grade": "2024 级", "handle": "_HP"},
