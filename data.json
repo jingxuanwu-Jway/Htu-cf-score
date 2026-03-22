@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-22T10:32:52.019370",
+  "last_update": "2026-03-22T11:25:33.113145",
   "users": [
     {
       "name": "翟景旺",
@@ -32,7 +32,7 @@
       "rank": "specialist",
       "recentContest": "Codeforces Round 1087 (Div. 2)",
       "ratingChange": -29,
-      "solvedCount": 226
+      "solvedCount": 227
     },
     {
       "name": "王义博",
@@ -197,7 +197,7 @@
       "rank": "newbie",
       "recentContest": "Codeforces Round 1087 (Div. 2)",
       "ratingChange": -24,
-      "solvedCount": 61
+      "solvedCount": 62
     },
     {
       "name": "申海辰",
@@ -263,7 +263,18 @@
       "rank": "newbie",
       "recentContest": "Codeforces Round 1084 (Div. 3)",
       "ratingChange": 32,
-      "solvedCount": 54
+      "solvedCount": 55
+    },
+    {
+      "name": "栗晟皓",
+      "grade": "2024 级",
+      "handle": "lichenghao",
+      "rating": 985,
+      "maxRating": 985,
+      "rank": "newbie",
+      "recentContest": "Codeforces Round 1087 (Div. 2)",
+      "ratingChange": 81,
+      "solvedCount": 27
     },
     {
       "name": "赵庆淇",
@@ -307,7 +318,7 @@
       "rank": "newbie",
       "recentContest": "Educational Codeforces Round 188 (Rated for Div. 2)",
       "ratingChange": -79,
-      "solvedCount": 56
+      "solvedCount": 57
     },
     {
       "name": "李昊洋",
@@ -384,7 +395,7 @@
       "rank": "newbie",
       "recentContest": "Codeforces Round 1087 (Div. 2)",
       "ratingChange": 24,
-      "solvedCount": 56
+      "solvedCount": 57
     },
     {
       "name": "朱宏璟",
@@ -462,17 +473,6 @@
       "recentContest": "Codeforces Round 1087 (Div. 2)",
       "ratingChange": 423,
       "solvedCount": 2
-    },
-    {
-      "name": "栗晟皓",
-      "grade": "2024 级",
-      "handle": "lichenhao",
-      "rating": 0,
-      "maxRating": 0,
-      "rank": "unrated",
-      "recentContest": "无",
-      "ratingChange": 0,
-      "solvedCount": 16
     },
     {
       "name": "李领玉",
