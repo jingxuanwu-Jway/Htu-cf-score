@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-22T21:31:31.011707",
+  "last_update": "2026-03-22T22:31:16.855298",
   "users": [
     {
       "name": "翟景旺",
@@ -132,6 +132,17 @@
       "recentContest": "Codeforces Round 1087 (Div. 2)",
       "ratingChange": 35,
       "solvedCount": 237
+    },
+    {
+      "name": "张玉桂",
+      "grade": "2024 级",
+      "handle": "zygnb",
+      "rating": 1256,
+      "maxRating": 1333,
+      "rank": "pupil",
+      "recentContest": "Codeforces Round 1087 (Div. 2)",
+      "ratingChange": -1,
+      "solvedCount": 786
     },
     {
       "name": "李宇恒",
