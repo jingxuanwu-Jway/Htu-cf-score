@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-24T06:04:58.667065",
+  "last_update": "2026-03-24T07:57:00.720013",
   "users": [
     {
       "name": "翟景旺",
@@ -77,17 +77,6 @@
       "recentContest": "Codeforces Round 1087 (Div. 2)",
       "ratingChange": 4,
       "solvedCount": 224
-    },
-    {
-      "name": "李昶昊",
-      "grade": "2024 级",
-      "handle": "_HP",
-      "rating": 1378,
-      "maxRating": 1379,
-      "rank": "pupil",
-      "recentContest": "Codeforces Round 1087 (Div. 2)",
-      "ratingChange": -1,
-      "solvedCount": 164
     },
     {
       "name": "李海瑜",
@@ -263,7 +252,7 @@
       "rank": "newbie",
       "recentContest": "Codeforces Round 1084 (Div. 3)",
       "ratingChange": 32,
-      "solvedCount": 56
+      "solvedCount": 57
     },
     {
       "name": "栗晟皓",
@@ -352,6 +341,17 @@
       "recentContest": "Codeforces Round 1087 (Div. 2)",
       "ratingChange": 95,
       "solvedCount": 39
+    },
+    {
+      "name": "秦旭阳",
+      "grade": "2025 级",
+      "handle": "oldust520",
+      "rating": 936,
+      "maxRating": 996,
+      "rank": "newbie",
+      "recentContest": "Codeforces Round 1077 (Div. 2)",
+      "ratingChange": -60,
+      "solvedCount": 8
     },
     {
       "name": "李昆鹏",
