@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-28T15:36:03.625341",
+  "last_update": "2026-03-28T16:39:47.176381",
   "users": [
     {
       "name": "翟景旺",
@@ -10,7 +10,7 @@
       "rank": "expert",
       "recentContest": "Codeforces Round 1087 (Div. 2)",
       "ratingChange": 119,
-      "solvedCount": 319
+      "solvedCount": 320
     },
     {
       "name": "吴帅甫",
@@ -32,7 +32,7 @@
       "rank": "specialist",
       "recentContest": "Codeforces Round 1087 (Div. 2)",
       "ratingChange": -29,
-      "solvedCount": 237
+      "solvedCount": 238
     },
     {
       "name": "王义博",
@@ -43,7 +43,7 @@
       "rank": "specialist",
       "recentContest": "Codeforces Round 1087 (Div. 2)",
       "ratingChange": 46,
-      "solvedCount": 125
+      "solvedCount": 126
     },
     {
       "name": "吴静轩",
@@ -54,7 +54,7 @@
       "rank": "specialist",
       "recentContest": "Educational Codeforces Round 188 (Rated for Div. 2)",
       "ratingChange": 21,
-      "solvedCount": 356
+      "solvedCount": 357
     },
     {
       "name": "余锦昊",
@@ -76,7 +76,7 @@
       "rank": "pupil",
       "recentContest": "Codeforces Round 1087 (Div. 2)",
       "ratingChange": 4,
-      "solvedCount": 233
+      "solvedCount": 234
     },
     {
       "name": "李昶昊",
@@ -87,7 +87,7 @@
       "rank": "pupil",
       "recentContest": "Codeforces Round 1087 (Div. 2)",
       "ratingChange": -1,
-      "solvedCount": 173
+      "solvedCount": 174
     },
     {
       "name": "李海瑜",
@@ -98,7 +98,7 @@
       "rank": "pupil",
       "recentContest": "Codeforces Round 1087 (Div. 2)",
       "ratingChange": -4,
-      "solvedCount": 461
+      "solvedCount": 462
     },
     {
       "name": "马傲博",
@@ -142,7 +142,7 @@
       "rank": "pupil",
       "recentContest": "Codeforces Round 1087 (Div. 2)",
       "ratingChange": -1,
-      "solvedCount": 797
+      "solvedCount": 798
     },
     {
       "name": "李宇恒",
@@ -164,7 +164,7 @@
       "rank": "pupil",
       "recentContest": "Codeforces Round 1087 (Div. 2)",
       "ratingChange": 44,
-      "solvedCount": 116
+      "solvedCount": 117
     },
     {
       "name": "侯轶棠",
@@ -175,7 +175,7 @@
       "rank": "newbie",
       "recentContest": "Codeforces Round 1087 (Div. 2)",
       "ratingChange": -45,
-      "solvedCount": 109
+      "solvedCount": 111
     },
     {
       "name": "李忆恩",
@@ -208,7 +208,7 @@
       "rank": "newbie",
       "recentContest": "Codeforces Round 1083 (Div. 2)",
       "ratingChange": 35,
-      "solvedCount": 80
+      "solvedCount": 81
     },
     {
       "name": "安齐镭",
@@ -274,7 +274,7 @@
       "rank": "newbie",
       "recentContest": "Codeforces Round 1087 (Div. 2)",
       "ratingChange": 81,
-      "solvedCount": 29
+      "solvedCount": 30
     },
     {
       "name": "赵庆淇",
@@ -318,7 +318,7 @@
       "rank": "newbie",
       "recentContest": "Educational Codeforces Round 188 (Rated for Div. 2)",
       "ratingChange": -78,
-      "solvedCount": 63
+      "solvedCount": 64
     },
     {
       "name": "李昊洋",
@@ -329,7 +329,7 @@
       "rank": "newbie",
       "recentContest": "Educational Codeforces Round 188 (Rated for Div. 2)",
       "ratingChange": -51,
-      "solvedCount": 32
+      "solvedCount": 33
     },
     {
       "name": "王思哲",
@@ -461,7 +461,7 @@
       "rank": "newbie",
       "recentContest": "Codeforces Round 1087 (Div. 2)",
       "ratingChange": -87,
-      "solvedCount": 14
+      "solvedCount": 15
     },
     {
       "name": "单鑫亮",
@@ -483,7 +483,7 @@
       "rank": "unrated",
       "recentContest": "无",
       "ratingChange": 0,
-      "solvedCount": 3
+      "solvedCount": 4
     }
   ]
 }
