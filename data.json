@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-29T02:43:33.835618",
+  "last_update": "2026-03-29T05:15:20.620749",
   "users": [
     {
       "name": "宁思禹",
@@ -10,7 +10,7 @@
       "rank": "expert",
       "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
       "ratingChange": 64,
-      "solvedCount": 240
+      "solvedCount": 244
     },
     {
       "name": "翟景旺",
@@ -21,7 +21,7 @@
       "rank": "expert",
       "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
       "ratingChange": -75,
-      "solvedCount": 320
+      "solvedCount": 321
     },
     {
       "name": "吴帅甫",
@@ -43,7 +43,7 @@
       "rank": "specialist",
       "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
       "ratingChange": 29,
-      "solvedCount": 358
+      "solvedCount": 362
     },
     {
       "name": "王义博",
@@ -65,7 +65,7 @@
       "rank": "specialist",
       "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
       "ratingChange": 38,
-      "solvedCount": 175
+      "solvedCount": 176
     },
     {
       "name": "强锦铭",
@@ -87,7 +87,7 @@
       "rank": "specialist",
       "recentContest": "Codeforces Round 1087 (Div. 2)",
       "ratingChange": -36,
-      "solvedCount": 346
+      "solvedCount": 348
     },
     {
       "name": "马傲博",
@@ -98,7 +98,7 @@
       "rank": "pupil",
       "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
       "ratingChange": 79,
-      "solvedCount": 418
+      "solvedCount": 419
     },
     {
       "name": "李海瑜",
@@ -109,7 +109,7 @@
       "rank": "pupil",
       "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
       "ratingChange": 42,
-      "solvedCount": 462
+      "solvedCount": 464
     },
     {
       "name": "曹继喆",
@@ -472,7 +472,7 @@
       "rank": "newbie",
       "recentContest": "Codeforces Round 1087 (Div. 2)",
       "ratingChange": -88,
-      "solvedCount": 33
+      "solvedCount": 34
     },
     {
       "name": "李领玉",
