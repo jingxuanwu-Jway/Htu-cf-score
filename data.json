@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-29T14:37:41.355040",
+  "last_update": "2026-03-29T15:37:37.980481",
   "users": [
     {
       "name": "宁思禹",
@@ -10,7 +10,7 @@
       "rank": "expert",
       "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
       "ratingChange": 64,
-      "solvedCount": 246
+      "solvedCount": 249
     },
     {
       "name": "翟景旺",
@@ -21,7 +21,7 @@
       "rank": "expert",
       "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
       "ratingChange": -75,
-      "solvedCount": 322
+      "solvedCount": 325
     },
     {
       "name": "吴帅甫",
@@ -43,7 +43,7 @@
       "rank": "specialist",
       "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
       "ratingChange": 29,
-      "solvedCount": 365
+      "solvedCount": 368
     },
     {
       "name": "王义博",
@@ -54,7 +54,7 @@
       "rank": "specialist",
       "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
       "ratingChange": 8,
-      "solvedCount": 126
+      "solvedCount": 129
     },
     {
       "name": "李昶昊",
@@ -65,7 +65,7 @@
       "rank": "specialist",
       "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
       "ratingChange": 38,
-      "solvedCount": 182
+      "solvedCount": 185
     },
     {
       "name": "强锦铭",
@@ -87,7 +87,7 @@
       "rank": "specialist",
       "recentContest": "Codeforces Round 1087 (Div. 2)",
       "ratingChange": -36,
-      "solvedCount": 351
+      "solvedCount": 353
     },
     {
       "name": "马傲博",
@@ -98,7 +98,7 @@
       "rank": "pupil",
       "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
       "ratingChange": 79,
-      "solvedCount": 426
+      "solvedCount": 429
     },
     {
       "name": "李海瑜",
@@ -109,7 +109,7 @@
       "rank": "pupil",
       "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
       "ratingChange": 42,
-      "solvedCount": 470
+      "solvedCount": 473
     },
     {
       "name": "曹继喆",
@@ -131,7 +131,7 @@
       "rank": "pupil",
       "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
       "ratingChange": 45,
-      "solvedCount": 119
+      "solvedCount": 122
     },
     {
       "name": "赵柯行",
@@ -142,7 +142,7 @@
       "rank": "pupil",
       "recentContest": "Codeforces Round 1087 (Div. 2)",
       "ratingChange": 35,
-      "solvedCount": 244
+      "solvedCount": 247
     },
     {
       "name": "张玉桂",
@@ -153,7 +153,7 @@
       "rank": "pupil",
       "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
       "ratingChange": 1,
-      "solvedCount": 799
+      "solvedCount": 801
     },
     {
       "name": "侯轶棠",
@@ -164,7 +164,7 @@
       "rank": "pupil",
       "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
       "ratingChange": 55,
-      "solvedCount": 112
+      "solvedCount": 114
     },
     {
       "name": "李宇恒",
@@ -175,7 +175,7 @@
       "rank": "pupil",
       "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
       "ratingChange": 10,
-      "solvedCount": 219
+      "solvedCount": 222
     },
     {
       "name": "申海辰",
@@ -197,7 +197,7 @@
       "rank": "newbie",
       "recentContest": "Codeforces Round 1087 (Div. 2)",
       "ratingChange": 118,
-      "solvedCount": 61
+      "solvedCount": 63
     },
     {
       "name": "周佳影",
@@ -208,7 +208,7 @@
       "rank": "newbie",
       "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
       "ratingChange": -25,
-      "solvedCount": 69
+      "solvedCount": 71
     },
     {
       "name": "栗晟皓",
@@ -263,7 +263,7 @@
       "rank": "newbie",
       "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
       "ratingChange": 38,
-      "solvedCount": 67
+      "solvedCount": 69
     },
     {
       "name": "梁敬泽",
@@ -285,7 +285,7 @@
       "rank": "newbie",
       "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
       "ratingChange": -22,
-      "solvedCount": 36
+      "solvedCount": 38
     },
     {
       "name": "赵庆淇",
@@ -296,7 +296,7 @@
       "rank": "newbie",
       "recentContest": "Codeforces Round 1071 (Div. 3)",
       "ratingChange": 32,
-      "solvedCount": 11
+      "solvedCount": 13
     },
     {
       "name": "貌克宇",
@@ -318,7 +318,7 @@
       "rank": "newbie",
       "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
       "ratingChange": -26,
-      "solvedCount": 23
+      "solvedCount": 24
     },
     {
       "name": "王思哲",
@@ -340,7 +340,7 @@
       "rank": "newbie",
       "recentContest": "Codeforces Round 1087 (Div. 2)",
       "ratingChange": 95,
-      "solvedCount": 39
+      "solvedCount": 40
     },
     {
       "name": "李昆鹏",
@@ -351,7 +351,7 @@
       "rank": "newbie",
       "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
       "ratingChange": 4,
-      "solvedCount": 29
+      "solvedCount": 31
     },
     {
       "name": "秦旭阳",
@@ -384,7 +384,7 @@
       "rank": "newbie",
       "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
       "ratingChange": -12,
-      "solvedCount": 30
+      "solvedCount": 31
     },
     {
       "name": "解天蔚",
@@ -395,7 +395,7 @@
       "rank": "newbie",
       "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
       "ratingChange": -5,
-      "solvedCount": 63
+      "solvedCount": 65
     },
     {
       "name": "朱宏璟",
@@ -417,7 +417,7 @@
       "rank": "newbie",
       "recentContest": "Educational Codeforces Round 188 (Rated for Div. 2)",
       "ratingChange": -78,
-      "solvedCount": 16
+      "solvedCount": 18
     },
     {
       "name": "刘晓玲",
@@ -439,7 +439,7 @@
       "rank": "newbie",
       "recentContest": "Codeforces Round 1082 (Div. 2)",
       "ratingChange": -26,
-      "solvedCount": 19
+      "solvedCount": 20
     },
     {
       "name": "单鑫亮",
@@ -450,7 +450,7 @@
       "rank": "newbie",
       "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
       "ratingChange": 315,
-      "solvedCount": 5
+      "solvedCount": 6
     },
     {
       "name": "王金燕",
@@ -461,7 +461,7 @@
       "rank": "newbie",
       "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
       "ratingChange": 19,
-      "solvedCount": 15
+      "solvedCount": 16
     },
     {
       "name": "张稳泉",
@@ -472,7 +472,7 @@
       "rank": "newbie",
       "recentContest": "Codeforces Round 1087 (Div. 2)",
       "ratingChange": -88,
-      "solvedCount": 34
+      "solvedCount": 35
     },
     {
       "name": "李领玉",
@@ -483,7 +483,7 @@
       "rank": "newbie",
       "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
       "ratingChange": 390,
-      "solvedCount": 4
+      "solvedCount": 5
     }
   ]
 }
