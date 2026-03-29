@@ -1,27 +1,27 @@
 {
-  "last_update": "2026-03-29T18:49:27.643723",
+  "last_update": "2026-03-29T19:35:50.918225",
   "users": [
-    {
-      "name": "宁思禹",
-      "grade": "2024 级",
-      "handle": "anoslide",
-      "rating": 1624,
-      "maxRating": 1624,
-      "rank": "expert",
-      "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
-      "ratingChange": 64,
-      "solvedCount": 249
-    },
     {
       "name": "翟景旺",
       "grade": "2024 级",
       "handle": "Yhh7.",
-      "rating": 1623,
-      "maxRating": 1711,
+      "rating": 1728,
+      "maxRating": 1728,
       "rank": "expert",
-      "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
-      "ratingChange": -75,
+      "recentContest": "Codeforces Round 1089 (Div. 2)",
+      "ratingChange": 105,
       "solvedCount": 326
+    },
+    {
+      "name": "宁思禹",
+      "grade": "2024 级",
+      "handle": "anoslide",
+      "rating": 1643,
+      "maxRating": 1643,
+      "rank": "expert",
+      "recentContest": "Codeforces Round 1089 (Div. 2)",
+      "ratingChange": 19,
+      "solvedCount": 249
     },
     {
       "name": "吴帅甫",
@@ -35,37 +35,59 @@
       "solvedCount": 316
     },
     {
-      "name": "吴静轩",
-      "grade": "2024 级",
-      "handle": "Tbat",
-      "rating": 1486,
-      "maxRating": 1486,
-      "rank": "specialist",
-      "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
-      "ratingChange": 29,
-      "solvedCount": 368
-    },
-    {
       "name": "王义博",
       "grade": "2025 级",
       "handle": "wert2353",
-      "rating": 1465,
-      "maxRating": 1504,
+      "rating": 1525,
+      "maxRating": 1525,
       "rank": "specialist",
-      "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
-      "ratingChange": 8,
+      "recentContest": "Codeforces Round 1089 (Div. 2)",
+      "ratingChange": 60,
       "solvedCount": 129
+    },
+    {
+      "name": "吴静轩",
+      "grade": "2024 级",
+      "handle": "Tbat",
+      "rating": 1511,
+      "maxRating": 1511,
+      "rank": "specialist",
+      "recentContest": "Codeforces Round 1089 (Div. 2)",
+      "ratingChange": 25,
+      "solvedCount": 368
+    },
+    {
+      "name": "马傲博",
+      "grade": "2024 级",
+      "handle": "maj_22",
+      "rating": 1473,
+      "maxRating": 1473,
+      "rank": "specialist",
+      "recentContest": "Codeforces Round 1089 (Div. 2)",
+      "ratingChange": 88,
+      "solvedCount": 429
     },
     {
       "name": "李昶昊",
       "grade": "2024 级",
       "handle": "_HP",
-      "rating": 1420,
-      "maxRating": 1420,
+      "rating": 1435,
+      "maxRating": 1435,
       "rank": "specialist",
-      "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
-      "ratingChange": 38,
+      "recentContest": "Codeforces Round 1089 (Div. 2)",
+      "ratingChange": 15,
       "solvedCount": 185
+    },
+    {
+      "name": "李海瑜",
+      "grade": "2024 级",
+      "handle": "iyu0",
+      "rating": 1423,
+      "maxRating": 1423,
+      "rank": "specialist",
+      "recentContest": "Codeforces Round 1089 (Div. 2)",
+      "ratingChange": 69,
+      "solvedCount": 473
     },
     {
       "name": "强锦铭",
@@ -79,37 +101,48 @@
       "solvedCount": 234
     },
     {
+      "name": "李宇恒",
+      "grade": "2025 级",
+      "handle": "liyyuu",
+      "rating": 1352,
+      "maxRating": 1352,
+      "rank": "pupil",
+      "recentContest": "Codeforces Round 1089 (Div. 2)",
+      "ratingChange": 107,
+      "solvedCount": 222
+    },
+    {
+      "name": "赵柯行",
+      "grade": "2024 级",
+      "handle": "zhaokx12.",
+      "rating": 1347,
+      "maxRating": 1347,
+      "rank": "pupil",
+      "recentContest": "Codeforces Round 1089 (Div. 2)",
+      "ratingChange": 83,
+      "solvedCount": 247
+    },
+    {
       "name": "余锦昊",
       "grade": "2024 级",
       "handle": "yokin",
-      "rating": 1400,
+      "rating": 1324,
       "maxRating": 1445,
-      "rank": "specialist",
-      "recentContest": "Codeforces Round 1087 (Div. 2)",
-      "ratingChange": -36,
+      "rank": "pupil",
+      "recentContest": "Codeforces Round 1089 (Div. 2)",
+      "ratingChange": -76,
       "solvedCount": 353
     },
     {
-      "name": "马傲博",
-      "grade": "2024 级",
-      "handle": "maj_22",
-      "rating": 1385,
-      "maxRating": 1385,
+      "name": "段荆玺",
+      "grade": "2025 级",
+      "handle": "buhuizuo",
+      "rating": 1324,
+      "maxRating": 1324,
       "rank": "pupil",
-      "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
-      "ratingChange": 79,
-      "solvedCount": 429
-    },
-    {
-      "name": "李海瑜",
-      "grade": "2024 级",
-      "handle": "iyu0",
-      "rating": 1354,
-      "maxRating": 1371,
-      "rank": "pupil",
-      "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
-      "ratingChange": 42,
-      "solvedCount": 473
+      "recentContest": "Codeforces Round 1089 (Div. 2)",
+      "ratingChange": 51,
+      "solvedCount": 122
     },
     {
       "name": "曹继喆",
@@ -123,59 +156,26 @@
       "solvedCount": 406
     },
     {
-      "name": "段荆玺",
-      "grade": "2025 级",
-      "handle": "buhuizuo",
-      "rating": 1273,
-      "maxRating": 1273,
-      "rank": "pupil",
-      "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
-      "ratingChange": 45,
-      "solvedCount": 122
-    },
-    {
-      "name": "赵柯行",
-      "grade": "2024 级",
-      "handle": "zhaokx12.",
-      "rating": 1264,
-      "maxRating": 1330,
-      "rank": "pupil",
-      "recentContest": "Codeforces Round 1087 (Div. 2)",
-      "ratingChange": 35,
-      "solvedCount": 247
-    },
-    {
       "name": "张玉桂",
       "grade": "2024 级",
       "handle": "zygnb",
       "rating": 1260,
       "maxRating": 1333,
       "rank": "pupil",
-      "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
-      "ratingChange": 1,
+      "recentContest": "Codeforces Round 1089 (Div. 2)",
+      "ratingChange": 0,
       "solvedCount": 802
     },
     {
       "name": "侯轶棠",
       "grade": "2025 级",
       "handle": "biyuf",
-      "rating": 1252,
+      "rating": 1255,
       "maxRating": 1281,
       "rank": "pupil",
-      "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
-      "ratingChange": 55,
+      "recentContest": "Codeforces Round 1089 (Div. 2)",
+      "ratingChange": 3,
       "solvedCount": 115
-    },
-    {
-      "name": "李宇恒",
-      "grade": "2025 级",
-      "handle": "liyyuu",
-      "rating": 1245,
-      "maxRating": 1263,
-      "rank": "pupil",
-      "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
-      "ratingChange": 10,
-      "solvedCount": 222
     },
     {
       "name": "申海辰",
@@ -192,22 +192,22 @@
       "name": "李忆恩",
       "grade": "2025 级",
       "handle": "jim_jrodan",
-      "rating": 1088,
-      "maxRating": 1088,
+      "rating": 1181,
+      "maxRating": 1181,
       "rank": "newbie",
-      "recentContest": "Codeforces Round 1087 (Div. 2)",
-      "ratingChange": 118,
+      "recentContest": "Codeforces Round 1089 (Div. 2)",
+      "ratingChange": 93,
       "solvedCount": 64
     },
     {
       "name": "周佳影",
       "grade": "2025 级",
       "handle": "XYZz-",
-      "rating": 1061,
+      "rating": 1060,
       "maxRating": 1111,
       "rank": "newbie",
-      "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
-      "ratingChange": -25,
+      "recentContest": "Codeforces Round 1089 (Div. 2)",
+      "ratingChange": -1,
       "solvedCount": 71
     },
     {
@@ -258,12 +258,23 @@
       "name": "孙艺菲",
       "grade": "2025 级",
       "handle": "s1fzzz",
-      "rating": 1007,
+      "rating": 1018,
       "maxRating": 1053,
       "rank": "newbie",
-      "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
-      "ratingChange": 38,
+      "recentContest": "Codeforces Round 1089 (Div. 2)",
+      "ratingChange": 11,
       "solvedCount": 69
+    },
+    {
+      "name": "郑于威",
+      "grade": "2023 级",
+      "handle": "zhengxiaomei",
+      "rating": 1004,
+      "maxRating": 1029,
+      "rank": "newbie",
+      "recentContest": "Codeforces Round 1089 (Div. 2)",
+      "ratingChange": 17,
+      "solvedCount": 38
     },
     {
       "name": "梁敬泽",
@@ -277,26 +288,26 @@
       "solvedCount": 63
     },
     {
-      "name": "郑于威",
-      "grade": "2023 级",
-      "handle": "zhengxiaomei",
-      "rating": 987,
-      "maxRating": 1029,
-      "rank": "newbie",
-      "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
-      "ratingChange": -22,
-      "solvedCount": 38
-    },
-    {
       "name": "赵庆淇",
       "grade": "2025 级",
       "handle": "nanhaijuzi",
-      "rating": 981,
-      "maxRating": 981,
+      "rating": 995,
+      "maxRating": 995,
       "rank": "newbie",
-      "recentContest": "Codeforces Round 1071 (Div. 3)",
-      "ratingChange": 32,
+      "recentContest": "Codeforces Round 1089 (Div. 2)",
+      "ratingChange": 14,
       "solvedCount": 13
+    },
+    {
+      "name": "李昆鹏",
+      "grade": "2025 级",
+      "handle": "likunpeng",
+      "rating": 990,
+      "maxRating": 1061,
+      "rank": "newbie",
+      "recentContest": "Codeforces Round 1089 (Div. 2)",
+      "ratingChange": 49,
+      "solvedCount": 31
     },
     {
       "name": "貌克宇",
@@ -310,17 +321,6 @@
       "solvedCount": 30
     },
     {
-      "name": "石熙琛",
-      "grade": "2025 级",
-      "handle": "ttwansuiye",
-      "rating": 973,
-      "maxRating": 1001,
-      "rank": "newbie",
-      "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
-      "ratingChange": -26,
-      "solvedCount": 24
-    },
-    {
       "name": "王思哲",
       "grade": "2025 级",
       "handle": "warning......",
@@ -332,26 +332,26 @@
       "solvedCount": 39
     },
     {
-      "name": "乔泉程",
+      "name": "解天蔚",
       "grade": "2025 级",
-      "handle": "discovery...",
-      "rating": 944,
-      "maxRating": 1073,
+      "handle": "xtwaaa",
+      "rating": 947,
+      "maxRating": 970,
       "rank": "newbie",
-      "recentContest": "Codeforces Round 1087 (Div. 2)",
-      "ratingChange": 95,
-      "solvedCount": 40
+      "recentContest": "Codeforces Round 1089 (Div. 2)",
+      "ratingChange": 70,
+      "solvedCount": 65
     },
     {
-      "name": "李昆鹏",
+      "name": "石熙琛",
       "grade": "2025 级",
-      "handle": "likunpeng",
-      "rating": 941,
-      "maxRating": 1061,
+      "handle": "ttwansuiye",
+      "rating": 936,
+      "maxRating": 1001,
       "rank": "newbie",
-      "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
-      "ratingChange": 4,
-      "solvedCount": 31
+      "recentContest": "Codeforces Round 1089 (Div. 2)",
+      "ratingChange": -37,
+      "solvedCount": 24
     },
     {
       "name": "秦旭阳",
@@ -376,26 +376,37 @@
       "solvedCount": 26
     },
     {
-      "name": "张正正",
-      "grade": "2024 级",
-      "handle": "zhangzhengzheng",
-      "rating": 905,
-      "maxRating": 951,
+      "name": "乔泉程",
+      "grade": "2025 级",
+      "handle": "discovery...",
+      "rating": 903,
+      "maxRating": 1073,
       "rank": "newbie",
-      "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
-      "ratingChange": -12,
-      "solvedCount": 31
+      "recentContest": "Codeforces Round 1089 (Div. 2)",
+      "ratingChange": -41,
+      "solvedCount": 40
     },
     {
-      "name": "解天蔚",
+      "name": "靳宇翔",
       "grade": "2025 级",
-      "handle": "xtwaaa",
-      "rating": 877,
-      "maxRating": 970,
+      "handle": "changf",
+      "rating": 896,
+      "maxRating": 950,
       "rank": "newbie",
-      "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
-      "ratingChange": -5,
-      "solvedCount": 65
+      "recentContest": "Codeforces Round 1089 (Div. 2)",
+      "ratingChange": 88,
+      "solvedCount": 18
+    },
+    {
+      "name": "单鑫亮",
+      "grade": "2024 级",
+      "handle": "YellowDragon",
+      "rating": 893,
+      "maxRating": 893,
+      "rank": "newbie",
+      "recentContest": "Codeforces Round 1089 (Div. 2)",
+      "ratingChange": 157,
+      "solvedCount": 6
     },
     {
       "name": "朱宏璟",
@@ -409,15 +420,15 @@
       "solvedCount": 10
     },
     {
-      "name": "靳宇翔",
-      "grade": "2025 级",
-      "handle": "changf",
-      "rating": 808,
-      "maxRating": 950,
+      "name": "张正正",
+      "grade": "2024 级",
+      "handle": "zhangzhengzheng",
+      "rating": 856,
+      "maxRating": 951,
       "rank": "newbie",
-      "recentContest": "Educational Codeforces Round 188 (Rated for Div. 2)",
-      "ratingChange": -78,
-      "solvedCount": 18
+      "recentContest": "Codeforces Round 1089 (Div. 2)",
+      "ratingChange": -49,
+      "solvedCount": 31
     },
     {
       "name": "刘晓玲",
@@ -434,55 +445,44 @@
       "name": "高耀",
       "grade": "2025 级",
       "handle": "DAIPUTAO",
-      "rating": 780,
+      "rating": 750,
       "maxRating": 956,
       "rank": "newbie",
-      "recentContest": "Codeforces Round 1082 (Div. 2)",
-      "ratingChange": -26,
+      "recentContest": "Codeforces Round 1089 (Div. 2)",
+      "ratingChange": -30,
       "solvedCount": 20
-    },
-    {
-      "name": "单鑫亮",
-      "grade": "2024 级",
-      "handle": "YellowDragon",
-      "rating": 736,
-      "maxRating": 736,
-      "rank": "newbie",
-      "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
-      "ratingChange": 315,
-      "solvedCount": 6
     },
     {
       "name": "王金燕",
       "grade": "2025 级",
       "handle": "w19511030691",
-      "rating": 671,
+      "rating": 746,
       "maxRating": 878,
       "rank": "newbie",
-      "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
-      "ratingChange": 19,
+      "recentContest": "Codeforces Round 1089 (Div. 2)",
+      "ratingChange": 75,
       "solvedCount": 17
     },
     {
       "name": "张稳泉",
       "grade": "2025 级",
       "handle": "zwq123180",
-      "rating": 664,
+      "rating": 675,
       "maxRating": 883,
       "rank": "newbie",
-      "recentContest": "Codeforces Round 1087 (Div. 2)",
-      "ratingChange": -88,
+      "recentContest": "Codeforces Round 1089 (Div. 2)",
+      "ratingChange": 11,
       "solvedCount": 35
     },
     {
       "name": "李领玉",
       "grade": "2025 级",
       "handle": "lilingyu..",
-      "rating": 390,
-      "maxRating": 390,
+      "rating": 629,
+      "maxRating": 629,
       "rank": "newbie",
-      "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
-      "ratingChange": 390,
+      "recentContest": "Codeforces Round 1089 (Div. 2)",
+      "ratingChange": 239,
       "solvedCount": 5
     }
   ]
