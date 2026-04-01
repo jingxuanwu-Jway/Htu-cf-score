@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-01T02:52:20.780707",
+  "last_update": "2026-04-01T05:28:43.191694",
   "users": [
     {
       "name": "翟景旺",
@@ -10,7 +10,7 @@
       "rank": "expert",
       "recentContest": "Codeforces Round 1089 (Div. 2)",
       "ratingChange": 105,
-      "solvedCount": 331
+      "solvedCount": 332
     },
     {
       "name": "宁思禹",
@@ -21,7 +21,7 @@
       "rank": "expert",
       "recentContest": "Codeforces Round 1089 (Div. 2)",
       "ratingChange": 19,
-      "solvedCount": 254
+      "solvedCount": 255
     },
     {
       "name": "吴帅甫",
@@ -54,7 +54,7 @@
       "rank": "specialist",
       "recentContest": "Codeforces Round 1089 (Div. 2)",
       "ratingChange": 25,
-      "solvedCount": 375
+      "solvedCount": 376
     },
     {
       "name": "马傲博",
@@ -87,7 +87,7 @@
       "rank": "specialist",
       "recentContest": "Codeforces Round 1089 (Div. 2)",
       "ratingChange": 69,
-      "solvedCount": 479
+      "solvedCount": 482
     },
     {
       "name": "强锦铭",
@@ -164,7 +164,7 @@
       "rank": "pupil",
       "recentContest": "Codeforces Round 1089 (Div. 2)",
       "ratingChange": 0,
-      "solvedCount": 804
+      "solvedCount": 805
     },
     {
       "name": "侯轶棠",
@@ -187,6 +187,17 @@
       "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
       "ratingChange": 128,
       "solvedCount": 85
+    },
+    {
+      "name": "李忆恩",
+      "grade": "2025 级",
+      "handle": "jim_jrodan",
+      "rating": 1181,
+      "maxRating": 1181,
+      "rank": "newbie",
+      "recentContest": "Codeforces Round 1089 (Div. 2)",
+      "ratingChange": 93,
+      "solvedCount": 66
     },
     {
       "name": "周佳影",
@@ -266,6 +277,17 @@
       "solvedCount": 39
     },
     {
+      "name": "梁敬泽",
+      "grade": "2025 级",
+      "handle": "Ljzmlx",
+      "rating": 996,
+      "maxRating": 1018,
+      "rank": "newbie",
+      "recentContest": "Codeforces Round 1084 (Div. 3)",
+      "ratingChange": 32,
+      "solvedCount": 66
+    },
+    {
       "name": "赵庆淇",
       "grade": "2025 级",
       "handle": "nanhaijuzi",
@@ -297,6 +319,17 @@
       "recentContest": "Educational Codeforces Round 188 (Rated for Div. 2)",
       "ratingChange": 149,
       "solvedCount": 30
+    },
+    {
+      "name": "王思哲",
+      "grade": "2025 级",
+      "handle": "warning......",
+      "rating": 960,
+      "maxRating": 1010,
+      "rank": "newbie",
+      "recentContest": "Educational Codeforces Round 188 (Rated for Div. 2)",
+      "ratingChange": -50,
+      "solvedCount": 39
     },
     {
       "name": "解天蔚",
