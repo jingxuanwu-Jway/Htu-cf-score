@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-02T23:39:12.977326",
+  "last_update": "2026-04-03T02:37:37.078382",
   "users": [
     {
       "name": "翟景旺",
@@ -109,7 +109,7 @@
       "rank": "pupil",
       "recentContest": "Codeforces Round 1089 (Div. 2)",
       "ratingChange": 107,
-      "solvedCount": 227
+      "solvedCount": 232
     },
     {
       "name": "赵柯行",
@@ -165,17 +165,6 @@
       "recentContest": "Codeforces Round 1089 (Div. 2)",
       "ratingChange": 0,
       "solvedCount": 806
-    },
-    {
-      "name": "侯轶棠",
-      "grade": "2025 级",
-      "handle": "biyuf",
-      "rating": 1255,
-      "maxRating": 1281,
-      "rank": "pupil",
-      "recentContest": "Codeforces Round 1089 (Div. 2)",
-      "ratingChange": 3,
-      "solvedCount": 115
     },
     {
       "name": "申海辰",
