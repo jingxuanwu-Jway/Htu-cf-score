@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-05T05:16:56.908837",
+  "last_update": "2026-04-05T07:12:33.319953",
   "users": [
     {
       "name": "翟景旺",
@@ -65,7 +65,7 @@
       "rank": "specialist",
       "recentContest": "Codeforces Round 1089 (Div. 2)",
       "ratingChange": 88,
-      "solvedCount": 447
+      "solvedCount": 449
     },
     {
       "name": "李昶昊",
@@ -76,7 +76,7 @@
       "rank": "specialist",
       "recentContest": "Codeforces Round 1089 (Div. 2)",
       "ratingChange": 15,
-      "solvedCount": 202
+      "solvedCount": 204
     },
     {
       "name": "李海瑜",
@@ -87,7 +87,7 @@
       "rank": "specialist",
       "recentContest": "Codeforces Round 1089 (Div. 2)",
       "ratingChange": 69,
-      "solvedCount": 490
+      "solvedCount": 492
     },
     {
       "name": "强锦铭",
@@ -109,7 +109,7 @@
       "rank": "pupil",
       "recentContest": "Codeforces Round 1089 (Div. 2)",
       "ratingChange": 107,
-      "solvedCount": 240
+      "solvedCount": 237
     },
     {
       "name": "赵柯行",
@@ -219,7 +219,7 @@
       "rank": "newbie",
       "recentContest": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
       "ratingChange": 69,
-      "solvedCount": 35
+      "solvedCount": 31
     },
     {
       "name": "安齐镭",
