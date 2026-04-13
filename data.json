@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-13T20:09:40.606493",
+  "last_update": "2026-04-13T21:54:48.803232",
   "users": [
     {
       "name": "翟景旺",
@@ -264,6 +264,17 @@
       "recentContest": "Codeforces Round 1093 (Div. 2)",
       "ratingChange": -8,
       "solvedCount": 79
+    },
+    {
+      "name": "李昊洋",
+      "grade": "2024 级",
+      "handle": "LHY0715",
+      "rating": 1035,
+      "maxRating": 1035,
+      "rank": "newbie",
+      "recentContest": "Codeforces Round 1091 (Div. 2) and CodeCraft 26",
+      "ratingChange": 9,
+      "solvedCount": 51
     },
     {
       "name": "郑于威",
