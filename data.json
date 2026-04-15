@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-15T20:56:08.334199",
+  "last_update": "2026-04-15T21:57:01.825618",
   "users": [
     {
       "name": "翟景旺",
@@ -374,6 +374,17 @@
       "recentContest": "Codeforces Round 1077 (Div. 2)",
       "ratingChange": -60,
       "solvedCount": 8
+    },
+    {
+      "name": "朱宏璟",
+      "grade": "2025 级",
+      "handle": "xing_he",
+      "rating": 926,
+      "maxRating": 926,
+      "rank": "newbie",
+      "recentContest": "Codeforces Round 1091 (Div. 2) and CodeCraft 26",
+      "ratingChange": 69,
+      "solvedCount": 16
     },
     {
       "name": "赵庆淇",
