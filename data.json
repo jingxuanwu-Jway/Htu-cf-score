@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-16T13:53:36.236335",
+  "last_update": "2026-04-16T15:30:17.133870",
   "users": [
     {
       "name": "翟景旺",
@@ -142,7 +142,7 @@
       "rank": "pupil",
       "recentContest": "Codeforces Round 1093 (Div. 2)",
       "ratingChange": -2,
-      "solvedCount": 259
+      "solvedCount": 260
     },
     {
       "name": "曹继喆",
@@ -418,6 +418,17 @@
       "recentContest": "Codeforces Round 1093 (Div. 2)",
       "ratingChange": -2,
       "solvedCount": 33
+    },
+    {
+      "name": "刘晓玲",
+      "grade": "2023 级",
+      "handle": "Cutee",
+      "rating": 834,
+      "maxRating": 906,
+      "rank": "newbie",
+      "recentContest": "Codeforces Round 1093 (Div. 2)",
+      "ratingChange": 27,
+      "solvedCount": 19
     },
     {
       "name": "乔泉程",
