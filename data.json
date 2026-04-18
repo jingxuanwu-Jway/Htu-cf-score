@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-18T10:45:21.705411",
+  "last_update": "2026-04-18T11:38:38.050335",
   "users": [
     {
       "name": "翟景旺",
@@ -44,6 +44,17 @@
       "recentContest": "Codeforces Round 1093 (Div. 2)",
       "ratingChange": 4,
       "solvedCount": 396
+    },
+    {
+      "name": "马傲博",
+      "grade": "2024 级",
+      "handle": "maj_22",
+      "rating": 1473,
+      "maxRating": 1473,
+      "rank": "specialist",
+      "recentContest": "Codeforces Round 1089 (Div. 2)",
+      "ratingChange": 88,
+      "solvedCount": 474
     },
     {
       "name": "李昶昊",
