@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-19T16:45:56.694141",
+  "last_update": "2026-04-19T17:40:28.740280",
   "users": [
     {
       "name": "翟景旺",
@@ -11,17 +11,6 @@
       "recentContest": "Codeforces Round 1093 (Div. 2)",
       "ratingChange": 43,
       "solvedCount": 348
-    },
-    {
-      "name": "宁思禹",
-      "grade": "2024 级",
-      "handle": "anoslide",
-      "rating": 1643,
-      "maxRating": 1643,
-      "rank": "expert",
-      "recentContest": "Codeforces Round 1089 (Div. 2)",
-      "ratingChange": 19,
-      "solvedCount": 259
     },
     {
       "name": "吴帅甫",
