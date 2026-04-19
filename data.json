@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-19T11:38:32.867321",
+  "last_update": "2026-04-19T13:08:56.905267",
   "users": [
     {
       "name": "翟景旺",
@@ -43,7 +43,7 @@
       "rank": "specialist",
       "recentContest": "Codeforces Round 1093 (Div. 2)",
       "ratingChange": 4,
-      "solvedCount": 396
+      "solvedCount": 397
     },
     {
       "name": "马傲博",
@@ -76,7 +76,7 @@
       "rank": "specialist",
       "recentContest": "Codeforces Round 1089 (Div. 2)",
       "ratingChange": 69,
-      "solvedCount": 522
+      "solvedCount": 525
     },
     {
       "name": "王义博",
@@ -131,7 +131,7 @@
       "rank": "pupil",
       "recentContest": "Codeforces Round 1091 (Div. 2) and CodeCraft 26",
       "ratingChange": 62,
-      "solvedCount": 120
+      "solvedCount": 121
     },
     {
       "name": "李宇恒",
@@ -208,7 +208,7 @@
       "rank": "newbie",
       "recentContest": "Codeforces Round 1093 (Div. 2)",
       "ratingChange": -39,
-      "solvedCount": 120
+      "solvedCount": 121
     },
     {
       "name": "单鑫亮",
@@ -274,7 +274,7 @@
       "rank": "newbie",
       "recentContest": "Codeforces Round 1091 (Div. 2) and CodeCraft 26",
       "ratingChange": 9,
-      "solvedCount": 62
+      "solvedCount": 63
     },
     {
       "name": "郑于威",
@@ -285,7 +285,7 @@
       "rank": "newbie",
       "recentContest": "Codeforces Round 1093 (Div. 2)",
       "ratingChange": -82,
-      "solvedCount": 59
+      "solvedCount": 60
     },
     {
       "name": "解天蔚",
