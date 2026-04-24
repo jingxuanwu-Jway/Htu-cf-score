@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-24T19:56:45.708869",
+  "last_update": "2026-04-24T20:54:54.900941",
   "users": [
     {
       "name": "翟景旺",
@@ -77,6 +77,17 @@
       "recentContest": "Educational Codeforces Round 189 (Rated for Div. 2)",
       "ratingChange": -22,
       "solvedCount": 155
+    },
+    {
+      "name": "余锦昊",
+      "grade": "2024 级",
+      "handle": "yokin",
+      "rating": 1389,
+      "maxRating": 1445,
+      "rank": "pupil",
+      "recentContest": "Codeforces Round 1093 (Div. 2)",
+      "ratingChange": 26,
+      "solvedCount": 378
     },
     {
       "name": "李昶昊",
