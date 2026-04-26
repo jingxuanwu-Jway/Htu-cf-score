@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-26T07:45:16.645815",
+  "last_update": "2026-04-26T09:06:06.721404",
   "users": [
     {
       "name": "宁思禹",
@@ -21,7 +21,7 @@
       "rank": "specialist",
       "recentContest": "Spectral::Cup 2026 Round 1 (Codeforces Round 1094, Div. 1 + Div. 2)",
       "ratingChange": -70,
-      "solvedCount": 358
+      "solvedCount": 359
     },
     {
       "name": "吴帅甫",
@@ -54,7 +54,7 @@
       "rank": "specialist",
       "recentContest": "Codeforces Round 1091 (Div. 2) and CodeCraft 26",
       "ratingChange": 59,
-      "solvedCount": 267
+      "solvedCount": 268
     },
     {
       "name": "余锦昊",
@@ -263,7 +263,7 @@
       "rank": "newbie",
       "recentContest": "Educational Codeforces Round 189 (Rated for Div. 2)",
       "ratingChange": 31,
-      "solvedCount": 51
+      "solvedCount": 52
     },
     {
       "name": "孙艺菲",
@@ -329,7 +329,7 @@
       "rank": "newbie",
       "recentContest": "Spectral::Cup 2026 Round 1 (Codeforces Round 1094, Div. 1 + Div. 2)",
       "ratingChange": -23,
-      "solvedCount": 36
+      "solvedCount": 37
     },
     {
       "name": "靳宇翔",
@@ -395,7 +395,7 @@
       "rank": "newbie",
       "recentContest": "Educational Codeforces Round 189 (Rated for Div. 2)",
       "ratingChange": -51,
-      "solvedCount": 41
+      "solvedCount": 42
     },
     {
       "name": "刘敬泽",
@@ -461,7 +461,7 @@
       "rank": "newbie",
       "recentContest": "Spectral::Cup 2026 Round 1 (Codeforces Round 1094, Div. 1 + Div. 2)",
       "ratingChange": -20,
-      "solvedCount": 44
+      "solvedCount": 45
     },
     {
       "name": "张稳泉",
