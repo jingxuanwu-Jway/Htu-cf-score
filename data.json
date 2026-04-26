@@ -1,6 +1,28 @@
 {
-  "last_update": "2026-04-26T05:45:31.150181",
+  "last_update": "2026-04-26T07:45:16.645815",
   "users": [
+    {
+      "name": "宁思禹",
+      "grade": "2024 级",
+      "handle": "anoslide",
+      "rating": 1633,
+      "maxRating": 1646,
+      "rank": "expert",
+      "recentContest": "Spectral::Cup 2026 Round 1 (Codeforces Round 1094, Div. 1 + Div. 2)",
+      "ratingChange": -13,
+      "solvedCount": 267
+    },
+    {
+      "name": "翟景旺",
+      "grade": "2024 级",
+      "handle": "Yhh7.",
+      "rating": 1596,
+      "maxRating": 1728,
+      "rank": "specialist",
+      "recentContest": "Spectral::Cup 2026 Round 1 (Codeforces Round 1094, Div. 1 + Div. 2)",
+      "ratingChange": -70,
+      "solvedCount": 358
+    },
     {
       "name": "吴帅甫",
       "grade": "2023 级",
@@ -13,6 +35,50 @@
       "solvedCount": 321
     },
     {
+      "name": "吴静轩",
+      "grade": "2024 级",
+      "handle": "Tbat",
+      "rating": 1468,
+      "maxRating": 1515,
+      "rank": "specialist",
+      "recentContest": "Spectral::Cup 2026 Round 1 (Codeforces Round 1094, Div. 1 + Div. 2)",
+      "ratingChange": -41,
+      "solvedCount": 417
+    },
+    {
+      "name": "赵柯行",
+      "grade": "2024 级",
+      "handle": "zhaokx12.",
+      "rating": 1406,
+      "maxRating": 1406,
+      "rank": "specialist",
+      "recentContest": "Codeforces Round 1091 (Div. 2) and CodeCraft 26",
+      "ratingChange": 59,
+      "solvedCount": 267
+    },
+    {
+      "name": "余锦昊",
+      "grade": "2024 级",
+      "handle": "yokin",
+      "rating": 1373,
+      "maxRating": 1445,
+      "rank": "pupil",
+      "recentContest": "Spectral::Cup 2026 Round 1 (Codeforces Round 1094, Div. 1 + Div. 2)",
+      "ratingChange": -16,
+      "solvedCount": 380
+    },
+    {
+      "name": "马傲博",
+      "grade": "2024 级",
+      "handle": "maj_22",
+      "rating": 1356,
+      "maxRating": 1473,
+      "rank": "pupil",
+      "recentContest": "Spectral::Cup 2026 Round 1 (Codeforces Round 1094, Div. 1 + Div. 2)",
+      "ratingChange": -47,
+      "solvedCount": 500
+    },
+    {
       "name": "李昶昊",
       "grade": "2024 级",
       "handle": "_HP",
@@ -21,7 +87,18 @@
       "rank": "pupil",
       "recentContest": "Spectral::Cup 2026 Round 1 (Codeforces Round 1094, Div. 1 + Div. 2)",
       "ratingChange": -18,
-      "solvedCount": 235
+      "solvedCount": 236
+    },
+    {
+      "name": "强锦铭",
+      "grade": "2024 级",
+      "handle": "Ayake",
+      "rating": 1351,
+      "maxRating": 1537,
+      "rank": "pupil",
+      "recentContest": "Educational Codeforces Round 189 (Rated for Div. 2)",
+      "ratingChange": -29,
+      "solvedCount": 260
     },
     {
       "name": "王义博",
@@ -33,6 +110,17 @@
       "recentContest": "Spectral::Cup 2026 Round 1 (Codeforces Round 1094, Div. 1 + Div. 2)",
       "ratingChange": -45,
       "solvedCount": 162
+    },
+    {
+      "name": "李海瑜",
+      "grade": "2024 级",
+      "handle": "iyu0",
+      "rating": 1306,
+      "maxRating": 1423,
+      "rank": "pupil",
+      "recentContest": "Spectral::Cup 2026 Round 1 (Codeforces Round 1094, Div. 1 + Div. 2)",
+      "ratingChange": -51,
+      "solvedCount": 557
     },
     {
       "name": "侯轶棠",
@@ -57,6 +145,17 @@
       "solvedCount": 406
     },
     {
+      "name": "张玉桂",
+      "grade": "2024 级",
+      "handle": "zygnb",
+      "rating": 1237,
+      "maxRating": 1333,
+      "rank": "pupil",
+      "recentContest": "Spectral::Cup 2026 Round 1 (Codeforces Round 1094, Div. 1 + Div. 2)",
+      "ratingChange": 14,
+      "solvedCount": 865
+    },
+    {
       "name": "李宇恒",
       "grade": "2025 级",
       "handle": "liyyuu",
@@ -79,6 +178,17 @@
       "solvedCount": 50
     },
     {
+      "name": "段荆玺",
+      "grade": "2025 级",
+      "handle": "buhuizuo",
+      "rating": 1191,
+      "maxRating": 1324,
+      "rank": "newbie",
+      "recentContest": "Educational Codeforces Round 189 (Rated for Div. 2)",
+      "ratingChange": -49,
+      "solvedCount": 151
+    },
+    {
       "name": "单鑫亮",
       "grade": "2024 级",
       "handle": "YellowDragon",
@@ -88,6 +198,28 @@
       "recentContest": "Spectral::Cup 2026 Round 1 (Codeforces Round 1094, Div. 1 + Div. 2)",
       "ratingChange": 53,
       "solvedCount": 15
+    },
+    {
+      "name": "申海辰",
+      "grade": "2024 级",
+      "handle": "monesytop1",
+      "rating": 1174,
+      "maxRating": 1193,
+      "rank": "newbie",
+      "recentContest": "Spectral::Cup 2026 Round 1 (Codeforces Round 1094, Div. 1 + Div. 2)",
+      "ratingChange": 16,
+      "solvedCount": 141
+    },
+    {
+      "name": "周佳影",
+      "grade": "2025 级",
+      "handle": "XYZz-",
+      "rating": 1169,
+      "maxRating": 1180,
+      "rank": "newbie",
+      "recentContest": "Spectral::Cup 2026 Round 1 (Codeforces Round 1094, Div. 1 + Div. 2)",
+      "ratingChange": 26,
+      "solvedCount": 94
     },
     {
       "name": "李忆恩",
@@ -101,6 +233,83 @@
       "solvedCount": 86
     },
     {
+      "name": "貌克宇",
+      "grade": "2025 级",
+      "handle": "mky0800",
+      "rating": 1152,
+      "maxRating": 1152,
+      "rank": "newbie",
+      "recentContest": "Educational Codeforces Round 189 (Rated for Div. 2)",
+      "ratingChange": 79,
+      "solvedCount": 35
+    },
+    {
+      "name": "李昊洋",
+      "grade": "2024 级",
+      "handle": "LHY0715",
+      "rating": 1147,
+      "maxRating": 1147,
+      "rank": "newbie",
+      "recentContest": "Spectral::Cup 2026 Round 1 (Codeforces Round 1094, Div. 1 + Div. 2)",
+      "ratingChange": 131,
+      "solvedCount": 89
+    },
+    {
+      "name": "王巍",
+      "grade": "2024 级",
+      "handle": "wwac",
+      "rating": 1131,
+      "maxRating": 1131,
+      "rank": "newbie",
+      "recentContest": "Educational Codeforces Round 189 (Rated for Div. 2)",
+      "ratingChange": 31,
+      "solvedCount": 51
+    },
+    {
+      "name": "孙艺菲",
+      "grade": "2025 级",
+      "handle": "s1fzzz",
+      "rating": 1123,
+      "maxRating": 1123,
+      "rank": "newbie",
+      "recentContest": "Spectral::Cup 2026 Round 1 (Codeforces Round 1094, Div. 1 + Div. 2)",
+      "ratingChange": 51,
+      "solvedCount": 86
+    },
+    {
+      "name": "安齐镭",
+      "grade": "2025 级",
+      "handle": "ANQILEI",
+      "rating": 1097,
+      "maxRating": 1097,
+      "rank": "newbie",
+      "recentContest": "Spectral::Cup 2026 Round 1 (Codeforces Round 1094, Div. 1 + Div. 2)",
+      "ratingChange": 91,
+      "solvedCount": 59
+    },
+    {
+      "name": "石熙琛",
+      "grade": "2025 级",
+      "handle": "ttwansuiye",
+      "rating": 1019,
+      "maxRating": 1019,
+      "rank": "newbie",
+      "recentContest": "Educational Codeforces Round 189 (Rated for Div. 2)",
+      "ratingChange": 9,
+      "solvedCount": 35
+    },
+    {
+      "name": "解天蔚",
+      "grade": "2025 级",
+      "handle": "xtwaaa",
+      "rating": 988,
+      "maxRating": 1015,
+      "rank": "newbie",
+      "recentContest": "Educational Codeforces Round 189 (Rated for Div. 2)",
+      "ratingChange": -27,
+      "solvedCount": 81
+    },
+    {
       "name": "郑于威",
       "grade": "2023 级",
       "handle": "zhengxiaomei",
@@ -109,7 +318,18 @@
       "rank": "newbie",
       "recentContest": "Educational Codeforces Round 189 (Rated for Div. 2)",
       "ratingChange": -53,
-      "solvedCount": 63
+      "solvedCount": 64
+    },
+    {
+      "name": "李昆鹏",
+      "grade": "2025 级",
+      "handle": "likunpeng",
+      "rating": 962,
+      "maxRating": 1061,
+      "rank": "newbie",
+      "recentContest": "Spectral::Cup 2026 Round 1 (Codeforces Round 1094, Div. 1 + Div. 2)",
+      "ratingChange": -23,
+      "solvedCount": 36
     },
     {
       "name": "靳宇翔",
@@ -134,6 +354,28 @@
       "solvedCount": 81
     },
     {
+      "name": "秦旭阳",
+      "grade": "2025 级",
+      "handle": "oldust520",
+      "rating": 936,
+      "maxRating": 996,
+      "rank": "newbie",
+      "recentContest": "Codeforces Round 1077 (Div. 2)",
+      "ratingChange": -60,
+      "solvedCount": 8
+    },
+    {
+      "name": "朱宏璟",
+      "grade": "2025 级",
+      "handle": "xing_he",
+      "rating": 926,
+      "maxRating": 926,
+      "rank": "newbie",
+      "recentContest": "Codeforces Round 1091 (Div. 2) and CodeCraft 26",
+      "ratingChange": 69,
+      "solvedCount": 16
+    },
+    {
       "name": "李领玉",
       "grade": "2025 级",
       "handle": "lilingyu..",
@@ -154,6 +396,17 @@
       "recentContest": "Educational Codeforces Round 189 (Rated for Div. 2)",
       "ratingChange": -51,
       "solvedCount": 41
+    },
+    {
+      "name": "刘敬泽",
+      "grade": "2025 级",
+      "handle": "anyidemao",
+      "rating": 889,
+      "maxRating": 973,
+      "rank": "newbie",
+      "recentContest": "Spectral::Cup 2026 Round 1 (Codeforces Round 1094, Div. 1 + Div. 2)",
+      "ratingChange": -60,
+      "solvedCount": 34
     },
     {
       "name": "赵庆淇",
@@ -198,6 +451,17 @@
       "recentContest": "Spectral::Cup 2026 Round 1 (Codeforces Round 1094, Div. 1 + Div. 2)",
       "ratingChange": 40,
       "solvedCount": 21
+    },
+    {
+      "name": "乔泉程",
+      "grade": "2025 级",
+      "handle": "discovery...",
+      "rating": 772,
+      "maxRating": 1073,
+      "rank": "newbie",
+      "recentContest": "Spectral::Cup 2026 Round 1 (Codeforces Round 1094, Div. 1 + Div. 2)",
+      "ratingChange": -20,
+      "solvedCount": 44
     },
     {
       "name": "张稳泉",
