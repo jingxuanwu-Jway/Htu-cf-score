@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-27T06:31:36.949022",
+  "last_update": "2026-04-27T09:23:05.630557",
   "users": [
     {
       "name": "宁思禹",
@@ -120,7 +120,7 @@
       "rank": "pupil",
       "recentContest": "Spectral::Cup 2026 Round 1 (Codeforces Round 1094, Div. 1 + Div. 2)",
       "ratingChange": -51,
-      "solvedCount": 559
+      "solvedCount": 560
     },
     {
       "name": "侯轶棠",
@@ -131,7 +131,7 @@
       "rank": "pupil",
       "recentContest": "Spectral::Cup 2026 Round 1 (Codeforces Round 1094, Div. 1 + Div. 2)",
       "ratingChange": 1,
-      "solvedCount": 136
+      "solvedCount": 137
     },
     {
       "name": "曹继喆",
@@ -462,6 +462,17 @@
       "recentContest": "Spectral::Cup 2026 Round 1 (Codeforces Round 1094, Div. 1 + Div. 2)",
       "ratingChange": -20,
       "solvedCount": 45
+    },
+    {
+      "name": "张稳泉",
+      "grade": "2025 级",
+      "handle": "zwq123180",
+      "rating": 738,
+      "maxRating": 883,
+      "rank": "newbie",
+      "recentContest": "Spectral::Cup 2026 Round 1 (Codeforces Round 1094, Div. 1 + Div. 2)",
+      "ratingChange": 46,
+      "solvedCount": 39
     },
     {
       "name": "高耀",
