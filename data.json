@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-28T06:33:30.725373",
+  "last_update": "2026-04-28T09:26:00.681538",
   "users": [
     {
       "name": "宁思禹",
@@ -21,7 +21,7 @@
       "rank": "specialist",
       "recentContest": "Spectral::Cup 2026 Round 1 (Codeforces Round 1094, Div. 1 + Div. 2)",
       "ratingChange": -70,
-      "solvedCount": 361
+      "solvedCount": 362
     },
     {
       "name": "吴帅甫",
@@ -54,7 +54,7 @@
       "rank": "specialist",
       "recentContest": "Codeforces Round 1091 (Div. 2) and CodeCraft 26",
       "ratingChange": 59,
-      "solvedCount": 273
+      "solvedCount": 275
     },
     {
       "name": "余锦昊",
@@ -98,7 +98,7 @@
       "rank": "pupil",
       "recentContest": "Educational Codeforces Round 189 (Rated for Div. 2)",
       "ratingChange": -29,
-      "solvedCount": 260
+      "solvedCount": 261
     },
     {
       "name": "王义博",
@@ -164,7 +164,7 @@
       "rank": "pupil",
       "recentContest": "Spectral::Cup 2026 Round 1 (Codeforces Round 1094, Div. 1 + Div. 2)",
       "ratingChange": -31,
-      "solvedCount": 288
+      "solvedCount": 289
     },
     {
       "name": "栗晟皓",
@@ -175,7 +175,7 @@
       "rank": "newbie",
       "recentContest": "Spectral::Cup 2026 Round 1 (Codeforces Round 1094, Div. 1 + Div. 2)",
       "ratingChange": -15,
-      "solvedCount": 52
+      "solvedCount": 53
     },
     {
       "name": "段荆玺",
@@ -208,7 +208,7 @@
       "rank": "newbie",
       "recentContest": "Spectral::Cup 2026 Round 1 (Codeforces Round 1094, Div. 1 + Div. 2)",
       "ratingChange": 16,
-      "solvedCount": 146
+      "solvedCount": 149
     },
     {
       "name": "周佳影",
@@ -252,7 +252,7 @@
       "rank": "newbie",
       "recentContest": "Spectral::Cup 2026 Round 1 (Codeforces Round 1094, Div. 1 + Div. 2)",
       "ratingChange": 131,
-      "solvedCount": 97
+      "solvedCount": 99
     },
     {
       "name": "王巍",
@@ -318,7 +318,7 @@
       "rank": "newbie",
       "recentContest": "Educational Codeforces Round 189 (Rated for Div. 2)",
       "ratingChange": -53,
-      "solvedCount": 66
+      "solvedCount": 68
     },
     {
       "name": "李昆鹏",
