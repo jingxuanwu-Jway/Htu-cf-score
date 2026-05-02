@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-02T20:47:37.866921",
+  "last_update": "2026-05-02T21:46:00.535430",
   "users": [
     {
       "name": "宁思禹",
@@ -297,17 +297,6 @@
       "recentContest": "Codeforces Round 1096 (Div. 3)",
       "ratingChange": -32,
       "solvedCount": 47
-    },
-    {
-      "name": "靳宇翔",
-      "grade": "2025 级",
-      "handle": "changf",
-      "rating": 1003,
-      "maxRating": 1029,
-      "rank": "newbie",
-      "recentContest": "Codeforces Round 1096 (Div. 3)",
-      "ratingChange": -26,
-      "solvedCount": 30
     },
     {
       "name": "解天蔚",
