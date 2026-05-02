@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-02T05:41:26.016440",
+  "last_update": "2026-05-02T07:49:30.601852",
   "users": [
     {
       "name": "宁思禹",
@@ -65,7 +65,7 @@
       "rank": "pupil",
       "recentContest": "Codeforces Round 1096 (Div. 3)",
       "ratingChange": 55,
-      "solvedCount": 581
+      "solvedCount": 583
     },
     {
       "name": "马傲博",
@@ -98,7 +98,7 @@
       "rank": "pupil",
       "recentContest": "Codeforces Round 1095 (Div. 2)",
       "ratingChange": 14,
-      "solvedCount": 173
+      "solvedCount": 174
     },
     {
       "name": "强锦铭",
@@ -109,7 +109,7 @@
       "rank": "pupil",
       "recentContest": "Educational Codeforces Round 189 (Rated for Div. 2)",
       "ratingChange": -29,
-      "solvedCount": 270
+      "solvedCount": 271
     },
     {
       "name": "李昶昊",
@@ -131,7 +131,7 @@
       "rank": "pupil",
       "recentContest": "Codeforces Round 1096 (Div. 3)",
       "ratingChange": 54,
-      "solvedCount": 301
+      "solvedCount": 302
     },
     {
       "name": "周佳影",
@@ -175,7 +175,7 @@
       "rank": "pupil",
       "recentContest": "Codeforces Round 1095 (Div. 2)",
       "ratingChange": -48,
-      "solvedCount": 146
+      "solvedCount": 147
     },
     {
       "name": "张玉桂",
@@ -186,7 +186,18 @@
       "rank": "pupil",
       "recentContest": "Codeforces Round 1096 (Div. 3)",
       "ratingChange": 45,
-      "solvedCount": 882
+      "solvedCount": 883
+    },
+    {
+      "name": "栗晟皓",
+      "grade": "2024 级",
+      "handle": "lichenghao",
+      "rating": 1192,
+      "maxRating": 1209,
+      "rank": "newbie",
+      "recentContest": "Codeforces Round 1095 (Div. 2)",
+      "ratingChange": -2,
+      "solvedCount": 59
     },
     {
       "name": "单鑫亮",
