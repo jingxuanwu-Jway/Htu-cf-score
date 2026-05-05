@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-05T03:26:13.713006",
+  "last_update": "2026-05-05T06:19:49.380130",
   "users": [
     {
       "name": "宁思禹",
@@ -10,7 +10,7 @@
       "rank": "expert",
       "recentContest": "Codeforces Round 1095 (Div. 2)",
       "ratingChange": -6,
-      "solvedCount": 275
+      "solvedCount": 278
     },
     {
       "name": "吴帅甫",
@@ -32,7 +32,7 @@
       "rank": "specialist",
       "recentContest": "Codeforces Round 1095 (Div. 2)",
       "ratingChange": -84,
-      "solvedCount": 368
+      "solvedCount": 371
     },
     {
       "name": "吴静轩",
@@ -43,7 +43,7 @@
       "rank": "specialist",
       "recentContest": "Codeforces Round 1096 (Div. 3)",
       "ratingChange": 17,
-      "solvedCount": 432
+      "solvedCount": 435
     },
     {
       "name": "赵柯行",
@@ -54,7 +54,7 @@
       "rank": "specialist",
       "recentContest": "Codeforces Round 1091 (Div. 2) and CodeCraft 26",
       "ratingChange": 59,
-      "solvedCount": 289
+      "solvedCount": 292
     },
     {
       "name": "李海瑜",
@@ -87,7 +87,7 @@
       "rank": "pupil",
       "recentContest": "Spectral::Cup 2026 Round 1 (Codeforces Round 1094, Div. 1 + Div. 2)",
       "ratingChange": -16,
-      "solvedCount": 401
+      "solvedCount": 402
     },
     {
       "name": "王义博",
@@ -109,7 +109,7 @@
       "rank": "pupil",
       "recentContest": "Educational Codeforces Round 189 (Rated for Div. 2)",
       "ratingChange": -29,
-      "solvedCount": 278
+      "solvedCount": 279
     },
     {
       "name": "李昶昊",
@@ -186,7 +186,7 @@
       "rank": "pupil",
       "recentContest": "Codeforces Round 1096 (Div. 3)",
       "ratingChange": 45,
-      "solvedCount": 890
+      "solvedCount": 891
     },
     {
       "name": "栗晟皓",
@@ -230,7 +230,7 @@
       "rank": "newbie",
       "recentContest": "Codeforces Round 1095 (Div. 2)",
       "ratingChange": 45,
-      "solvedCount": 64
+      "solvedCount": 68
     },
     {
       "name": "李昊洋",
