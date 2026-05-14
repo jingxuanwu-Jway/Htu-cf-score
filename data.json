@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-14T00:04:56.611794",
+  "last_update": "2026-05-14T04:46:20.139582",
   "users": [
     {
       "name": "宁思禹",
@@ -65,7 +65,7 @@
       "rank": "pupil",
       "recentContest": "Codeforces Round 1096 (Div. 3)",
       "ratingChange": 55,
-      "solvedCount": 623
+      "solvedCount": 626
     },
     {
       "name": "马傲博",
@@ -76,7 +76,7 @@
       "rank": "pupil",
       "recentContest": "Codeforces Round 1096 (Div. 3)",
       "ratingChange": 22,
-      "solvedCount": 536
+      "solvedCount": 539
     },
     {
       "name": "余锦昊",
@@ -120,7 +120,7 @@
       "rank": "pupil",
       "recentContest": "Codeforces Round 1096 (Div. 3)",
       "ratingChange": 42,
-      "solvedCount": 261
+      "solvedCount": 264
     },
     {
       "name": "李宇恒",
@@ -165,6 +165,17 @@
       "recentContest": "Codeforces Round 1095 (Div. 2)",
       "ratingChange": 77,
       "solvedCount": 167
+    },
+    {
+      "name": "侯轶棠",
+      "grade": "2025 级",
+      "handle": "biyuf",
+      "rating": 1243,
+      "maxRating": 1317,
+      "rank": "pupil",
+      "recentContest": "Codeforces Round 1095 (Div. 2)",
+      "ratingChange": -48,
+      "solvedCount": 158
     },
     {
       "name": "张玉桂",
@@ -220,6 +231,17 @@
       "recentContest": "Codeforces Round 1095 (Div. 2)",
       "ratingChange": 45,
       "solvedCount": 71
+    },
+    {
+      "name": "李昊洋",
+      "grade": "2024 级",
+      "handle": "LHY0715",
+      "rating": 1164,
+      "maxRating": 1186,
+      "rank": "newbie",
+      "recentContest": "Codeforces Round 1096 (Div. 3)",
+      "ratingChange": -22,
+      "solvedCount": 120
     },
     {
       "name": "孙艺菲",
@@ -310,6 +332,17 @@
       "solvedCount": 89
     },
     {
+      "name": "秦旭阳",
+      "grade": "2025 级",
+      "handle": "oldust520",
+      "rating": 936,
+      "maxRating": 996,
+      "rank": "newbie",
+      "recentContest": "Codeforces Round 1077 (Div. 2)",
+      "ratingChange": -60,
+      "solvedCount": 8
+    },
+    {
       "name": "李领玉",
       "grade": "2025 级",
       "handle": "lilingyu..",
@@ -341,6 +374,17 @@
       "recentContest": "Codeforces Round 1096 (Div. 3)",
       "ratingChange": -53,
       "solvedCount": 86
+    },
+    {
+      "name": "刘敬泽",
+      "grade": "2025 级",
+      "handle": "anyidemao",
+      "rating": 889,
+      "maxRating": 973,
+      "rank": "newbie",
+      "recentContest": "Spectral::Cup 2026 Round 1 (Codeforces Round 1094, Div. 1 + Div. 2)",
+      "ratingChange": -60,
+      "solvedCount": 34
     },
     {
       "name": "王思哲",
