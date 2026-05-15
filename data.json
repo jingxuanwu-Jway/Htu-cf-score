@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-15T12:57:11.581027",
+  "last_update": "2026-05-15T15:19:45.294930",
   "users": [
     {
       "name": "宁思禹",
@@ -178,17 +178,6 @@
       "solvedCount": 902
     },
     {
-      "name": "栗晟皓",
-      "grade": "2024 级",
-      "handle": "lichenghao",
-      "rating": 1192,
-      "maxRating": 1209,
-      "rank": "newbie",
-      "recentContest": "Codeforces Round 1095 (Div. 2)",
-      "ratingChange": -2,
-      "solvedCount": 68
-    },
-    {
       "name": "单鑫亮",
       "grade": "2024 级",
       "handle": "YellowDragon",
@@ -285,7 +274,7 @@
       "rank": "newbie",
       "recentContest": "Codeforces Round 1096 (Div. 3)",
       "ratingChange": -32,
-      "solvedCount": 52
+      "solvedCount": 53
     },
     {
       "name": "靳宇翔",
