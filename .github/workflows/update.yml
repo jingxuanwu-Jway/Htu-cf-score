@@ -28,10 +28,11 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
           git add data.json
-          # 如果数据没变化就不提交，防止报错
           git commit -m "Auto-update: 更新 CF 积分榜数据" || exit 0
           
-          # ✅ 新增下面这行：在 push 之前先拉取远端最新代码，防止冲突拒绝
+          # 1. 明确获取远端最新状态
+          git fetch origin main
+          # 2. 强制拉取远端最新代码并排在它后面
           git pull --rebase origin main
-          
-          git push
+          # 3. 明确推送到主分支
+          git push origin main
