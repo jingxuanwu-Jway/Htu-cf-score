@@ -10,10 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: 检出代码
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4 # ✅ 已升级：从 v3 升级到 v4，消除 Node 警告
 
       - name: 设置 Python 环境
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5 # ✅ 已升级：从 v4 升级到 v5，消除 Node 警告
         with:
           python-version: '3.10'
 
@@ -30,4 +30,8 @@ jobs:
           git add data.json
           # 如果数据没变化就不提交，防止报错
           git commit -m "Auto-update: 更新 CF 积分榜数据" || exit 0
+          
+          # ✅ 新增下面这行：在 push 之前先拉取远端最新代码，防止冲突拒绝
+          git pull --rebase origin main
+          
           git push
