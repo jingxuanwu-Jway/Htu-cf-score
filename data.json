@@ -1,6 +1,17 @@
 {
-  "last_update": "2026-05-19T23:06:15.716754",
+  "last_update": "2026-05-20T03:50:48.544262",
   "users": [
+    {
+      "name": "宁思禹",
+      "grade": "2024 级",
+      "handle": "anoslide",
+      "rating": 1590,
+      "maxRating": 1646,
+      "rank": "specialist",
+      "recentContest": "Educational Codeforces Round 190 (Rated for Div. 2)",
+      "ratingChange": -9,
+      "solvedCount": 293
+    },
     {
       "name": "吴帅甫",
       "grade": "2023 级",
