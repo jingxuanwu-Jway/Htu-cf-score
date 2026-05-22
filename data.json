@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-22T09:32:28.740352",
+  "last_update": "2026-05-22T12:23:22.191413",
   "users": [
     {
       "name": "宁思禹",
@@ -21,7 +21,7 @@
       "rank": "specialist",
       "recentContest": "Codeforces Round 1046 (Div. 2)",
       "ratingChange": 14,
-      "solvedCount": 321
+      "solvedCount": 322
     },
     {
       "name": "翟景旺",
@@ -142,7 +142,7 @@
       "rank": "pupil",
       "recentContest": "Codeforces Round 1099 (Div. 2)",
       "ratingChange": 110,
-      "solvedCount": 135
+      "solvedCount": 136
     },
     {
       "name": "李忆恩",
@@ -208,7 +208,7 @@
       "rank": "pupil",
       "recentContest": "Codeforces Round 1099 (Div. 2)",
       "ratingChange": -44,
-      "solvedCount": 114
+      "solvedCount": 115
     },
     {
       "name": "栗晟皓",
