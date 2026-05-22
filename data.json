@@ -1,15 +1,15 @@
 {
-  "last_update": "2026-05-22T15:51:19.795005",
+  "last_update": "2026-05-22T17:55:52.044197",
   "users": [
     {
       "name": "宁思禹",
       "grade": "2024 级",
       "handle": "anoslide",
       "rating": 1590,
-      "maxRating": 1646,
+      "maxRating": 1589,
       "rank": "specialist",
-      "recentContest": "Educational Codeforces Round 190 (Rated for Div. 2)",
-      "ratingChange": -9,
+      "recentContest": "Codeforces Round 1087 (Div. 2)",
+      "ratingChange": 1,
       "solvedCount": 297
     },
     {
@@ -28,10 +28,10 @@
       "grade": "2024 级",
       "handle": "Yhh7.",
       "rating": 1521,
-      "maxRating": 1728,
+      "maxRating": 1711,
       "rank": "specialist",
-      "recentContest": "Codeforces Round 1099 (Div. 2)",
-      "ratingChange": 40,
+      "recentContest": "Codeforces Round 1087 (Div. 2)",
+      "ratingChange": -58,
       "solvedCount": 409
     },
     {
@@ -39,10 +39,10 @@
       "grade": "2024 级",
       "handle": "Tbat",
       "rating": 1512,
-      "maxRating": 1515,
+      "maxRating": 1457,
       "rank": "specialist",
-      "recentContest": "Codeforces Round 1099 (Div. 2)",
-      "ratingChange": 12,
+      "recentContest": "Educational Codeforces Round 188 (Rated for Div. 2)",
+      "ratingChange": 76,
       "solvedCount": 465
     },
     {
@@ -50,21 +50,21 @@
       "grade": "2024 级",
       "handle": "_HP",
       "rating": 1500,
-      "maxRating": 1500,
+      "maxRating": 1383,
       "rank": "specialist",
-      "recentContest": "Codeforces Round 1099 (Div. 2)",
-      "ratingChange": 131,
-      "solvedCount": 287
+      "recentContest": "Codeforces Round 1087 (Div. 2)",
+      "ratingChange": 117,
+      "solvedCount": 288
     },
     {
       "name": "马傲博",
       "grade": "2024 级",
       "handle": "maj_22",
       "rating": 1455,
-      "maxRating": 1473,
+      "maxRating": 1374,
       "rank": "specialist",
-      "recentContest": "Codeforces Round 1099 (Div. 2)",
-      "ratingChange": 57,
+      "recentContest": "Codeforces Round 1087 (Div. 2)",
+      "ratingChange": 153,
       "solvedCount": 569
     },
     {
@@ -72,10 +72,10 @@
       "grade": "2025 级",
       "handle": "wert2353",
       "rating": 1433,
-      "maxRating": 1525,
+      "maxRating": 1504,
       "rank": "specialist",
-      "recentContest": "Codeforces Round 1098 (Div. 2)",
-      "ratingChange": 69,
+      "recentContest": "Codeforces Round 1087 (Div. 2)",
+      "ratingChange": 22,
       "solvedCount": 194
     },
     {
@@ -83,10 +83,10 @@
       "grade": "2024 级",
       "handle": "zhaokx12.",
       "rating": 1406,
-      "maxRating": 1406,
+      "maxRating": 1330,
       "rank": "specialist",
-      "recentContest": "Codeforces Round 1091 (Div. 2) and CodeCraft 26",
-      "ratingChange": 59,
+      "recentContest": "Codeforces Round 1087 (Div. 2)",
+      "ratingChange": 177,
       "solvedCount": 312
     },
     {
@@ -96,8 +96,8 @@
       "rating": 1373,
       "maxRating": 1445,
       "rank": "pupil",
-      "recentContest": "Spectral::Cup 2026 Round 1 (Codeforces Round 1094, Div. 1 + Div. 2)",
-      "ratingChange": -16,
+      "recentContest": "Codeforces Round 1087 (Div. 2)",
+      "ratingChange": -63,
       "solvedCount": 414
     },
     {
@@ -105,10 +105,10 @@
       "grade": "2025 级",
       "handle": "liyyuu",
       "rating": 1357,
-      "maxRating": 1357,
+      "maxRating": 1263,
       "rank": "pupil",
-      "recentContest": "Codeforces Round 1098 (Div. 2)",
-      "ratingChange": 41,
+      "recentContest": "Codeforces Round 1087 (Div. 2)",
+      "ratingChange": 131,
       "solvedCount": 345
     },
     {
@@ -118,8 +118,8 @@
       "rating": 1351,
       "maxRating": 1537,
       "rank": "pupil",
-      "recentContest": "Educational Codeforces Round 189 (Rated for Div. 2)",
-      "ratingChange": -29,
+      "recentContest": "Codeforces Round 1087 (Div. 2)",
+      "ratingChange": -38,
       "solvedCount": 279
     },
     {
@@ -138,10 +138,10 @@
       "grade": "2024 级",
       "handle": "LHY0715",
       "rating": 1269,
-      "maxRating": 1269,
+      "maxRating": 1035,
       "rank": "pupil",
-      "recentContest": "Codeforces Round 1099 (Div. 2)",
-      "ratingChange": 110,
+      "recentContest": "Educational Codeforces Round 188 (Rated for Div. 2)",
+      "ratingChange": 257,
       "solvedCount": 136
     },
     {
@@ -149,10 +149,10 @@
       "grade": "2025 级",
       "handle": "jim_jrodan",
       "rating": 1254,
-      "maxRating": 1254,
+      "maxRating": 1088,
       "rank": "pupil",
-      "recentContest": "Codeforces Round 1098 (Div. 2)",
-      "ratingChange": 107,
+      "recentContest": "Codeforces Round 1087 (Div. 2)",
+      "ratingChange": 284,
       "solvedCount": 102
     },
     {
@@ -160,10 +160,10 @@
       "grade": "2024 级",
       "handle": "iyu0",
       "rating": 1253,
-      "maxRating": 1423,
+      "maxRating": 1371,
       "rank": "pupil",
-      "recentContest": "Codeforces Round 1099 (Div. 2)",
-      "ratingChange": -35,
+      "recentContest": "Codeforces Round 1087 (Div. 2)",
+      "ratingChange": -63,
       "solvedCount": 666
     },
     {
@@ -171,10 +171,10 @@
       "grade": "2024 级",
       "handle": "monesytop1",
       "rating": 1237,
-      "maxRating": 1251,
+      "maxRating": 1065,
       "rank": "pupil",
-      "recentContest": "Codeforces Round 1099 (Div. 2)",
-      "ratingChange": 17,
+      "recentContest": "Codeforces Round 1083 (Div. 2)",
+      "ratingChange": 207,
       "solvedCount": 182
     },
     {
@@ -182,10 +182,10 @@
       "grade": "2025 级",
       "handle": "biyuf",
       "rating": 1236,
-      "maxRating": 1317,
+      "maxRating": 1281,
       "rank": "pupil",
-      "recentContest": "Educational Codeforces Round 190 (Rated for Div. 2)",
-      "ratingChange": -7,
+      "recentContest": "Codeforces Round 1087 (Div. 2)",
+      "ratingChange": -6,
       "solvedCount": 173
     },
     {
@@ -193,10 +193,10 @@
       "grade": "2024 级",
       "handle": "wwac",
       "rating": 1211,
-      "maxRating": 1211,
+      "maxRating": 1034,
       "rank": "pupil",
-      "recentContest": "Educational Codeforces Round 190 (Rated for Div. 2)",
-      "ratingChange": 35,
+      "recentContest": "Codeforces Round 1079 (Div. 2)",
+      "ratingChange": 242,
       "solvedCount": 85
     },
     {
@@ -204,10 +204,10 @@
       "grade": "2025 级",
       "handle": "XYZz-",
       "rating": 1203,
-      "maxRating": 1299,
+      "maxRating": 1111,
       "rank": "pupil",
-      "recentContest": "Codeforces Round 1099 (Div. 2)",
-      "ratingChange": -44,
+      "recentContest": "Codeforces Round 1087 (Div. 2)",
+      "ratingChange": 92,
       "solvedCount": 115
     },
     {
@@ -215,10 +215,10 @@
       "grade": "2024 级",
       "handle": "lichenghao",
       "rating": 1192,
-      "maxRating": 1209,
+      "maxRating": 986,
       "rank": "newbie",
-      "recentContest": "Codeforces Round 1095 (Div. 2)",
-      "ratingChange": -2,
+      "recentContest": "Codeforces Round 1087 (Div. 2)",
+      "ratingChange": 287,
       "solvedCount": 70
     },
     {
@@ -226,10 +226,10 @@
       "grade": "2025 级",
       "handle": "s1fzzz",
       "rating": 1190,
-      "maxRating": 1190,
+      "maxRating": 1053,
       "rank": "newbie",
-      "recentContest": "Codeforces Round 1098 (Div. 2)",
-      "ratingChange": 34,
+      "recentContest": "Educational Codeforces Round 188 (Rated for Div. 2)",
+      "ratingChange": 143,
       "solvedCount": 90
     },
     {
@@ -237,10 +237,10 @@
       "grade": "2025 级",
       "handle": "mky0800",
       "rating": 1152,
-      "maxRating": 1152,
+      "maxRating": 977,
       "rank": "newbie",
-      "recentContest": "Educational Codeforces Round 189 (Rated for Div. 2)",
-      "ratingChange": 79,
+      "recentContest": "Educational Codeforces Round 188 (Rated for Div. 2)",
+      "ratingChange": 324,
       "solvedCount": 58
     },
     {
@@ -248,10 +248,10 @@
       "grade": "2025 级",
       "handle": "buhuizuo",
       "rating": 1149,
-      "maxRating": 1324,
+      "maxRating": 1256,
       "rank": "newbie",
-      "recentContest": "Codeforces Round 1099 (Div. 2)",
-      "ratingChange": 18,
+      "recentContest": "Codeforces Round 1087 (Div. 2)",
+      "ratingChange": -35,
       "solvedCount": 171
     },
     {
@@ -259,10 +259,10 @@
       "grade": "2024 级",
       "handle": "YellowDragon",
       "rating": 1142,
-      "maxRating": 1199,
+      "maxRating": 421,
       "rank": "newbie",
-      "recentContest": "Educational Codeforces Round 190 (Rated for Div. 2)",
-      "ratingChange": 25,
+      "recentContest": "Codeforces Round 1087 (Div. 2)",
+      "ratingChange": 1142,
       "solvedCount": 35
     },
     {
@@ -272,8 +272,8 @@
       "rating": 1120,
       "maxRating": 1333,
       "rank": "newbie",
-      "recentContest": "Codeforces Round 1099 (Div. 2)",
-      "ratingChange": -68,
+      "recentContest": "Codeforces Round 1087 (Div. 2)",
+      "ratingChange": -140,
       "solvedCount": 906
     },
     {
@@ -281,10 +281,10 @@
       "grade": "2025 级",
       "handle": "ANQILEI",
       "rating": 1097,
-      "maxRating": 1097,
+      "maxRating": 1042,
       "rank": "newbie",
-      "recentContest": "Spectral::Cup 2026 Round 1 (Codeforces Round 1094, Div. 1 + Div. 2)",
-      "ratingChange": 91,
+      "recentContest": "Educational Codeforces Round 188 (Rated for Div. 2)",
+      "ratingChange": 83,
       "solvedCount": 76
     },
     {
@@ -292,10 +292,10 @@
       "grade": "2025 级",
       "handle": "ttwansuiye",
       "rating": 1061,
-      "maxRating": 1093,
+      "maxRating": 1001,
       "rank": "newbie",
-      "recentContest": "Codeforces Round 1096 (Div. 3)",
-      "ratingChange": -32,
+      "recentContest": "Codeforces Round 1087 (Div. 2)",
+      "ratingChange": 65,
       "solvedCount": 58
     },
     {
@@ -303,21 +303,21 @@
       "grade": "2025 级",
       "handle": "Ljzmlx",
       "rating": 1035,
-      "maxRating": 1035,
+      "maxRating": 1018,
       "rank": "newbie",
-      "recentContest": "Educational Codeforces Round 190 (Rated for Div. 2)",
-      "ratingChange": 78,
-      "solvedCount": 91
+      "recentContest": "Codeforces Round 1084 (Div. 3)",
+      "ratingChange": 71,
+      "solvedCount": 92
     },
     {
       "name": "靳宇翔",
       "grade": "2025 级",
       "handle": "changf",
       "rating": 1023,
-      "maxRating": 1037,
+      "maxRating": 950,
       "rank": "newbie",
-      "recentContest": "Educational Codeforces Round 190 (Rated for Div. 2)",
-      "ratingChange": -14,
+      "recentContest": "Educational Codeforces Round 188 (Rated for Div. 2)",
+      "ratingChange": 137,
       "solvedCount": 34
     },
     {
@@ -325,10 +325,10 @@
       "grade": "2025 级",
       "handle": "xtwaaa",
       "rating": 1011,
-      "maxRating": 1015,
+      "maxRating": 970,
       "rank": "newbie",
-      "recentContest": "Codeforces Round 1098 (Div. 2)",
-      "ratingChange": 50,
+      "recentContest": "Codeforces Round 1087 (Div. 2)",
+      "ratingChange": 153,
       "solvedCount": 96
     },
     {
@@ -338,8 +338,8 @@
       "rating": 996,
       "maxRating": 1061,
       "rank": "newbie",
-      "recentContest": "Educational Codeforces Round 190 (Rated for Div. 2)",
-      "ratingChange": 111,
+      "recentContest": "Codeforces Round 1087 (Div. 2)",
+      "ratingChange": 92,
       "solvedCount": 46
     },
     {
@@ -347,10 +347,10 @@
       "grade": "2023 级",
       "handle": "zhengxiaomei",
       "rating": 951,
-      "maxRating": 1108,
+      "maxRating": 1029,
       "rank": "newbie",
-      "recentContest": "Codeforces Round 1098 (Div. 2)",
-      "ratingChange": 31,
+      "recentContest": "Codeforces Round 1087 (Div. 2)",
+      "ratingChange": -78,
       "solvedCount": 106
     },
     {
@@ -369,10 +369,10 @@
       "grade": "2025 级",
       "handle": "xing_he",
       "rating": 926,
-      "maxRating": 926,
+      "maxRating": 857,
       "rank": "newbie",
-      "recentContest": "Codeforces Round 1091 (Div. 2) and CodeCraft 26",
-      "ratingChange": 69,
+      "recentContest": "Educational Codeforces Round 187 (Rated for Div. 2)",
+      "ratingChange": 137,
       "solvedCount": 16
     },
     {
@@ -382,8 +382,8 @@
       "rating": 906,
       "maxRating": 1010,
       "rank": "newbie",
-      "recentContest": "Codeforces Round 1098 (Div. 2)",
-      "ratingChange": 21,
+      "recentContest": "Educational Codeforces Round 188 (Rated for Div. 2)",
+      "ratingChange": -104,
       "solvedCount": 48
     },
     {
@@ -393,8 +393,8 @@
       "rating": 889,
       "maxRating": 973,
       "rank": "newbie",
-      "recentContest": "Spectral::Cup 2026 Round 1 (Codeforces Round 1094, Div. 1 + Div. 2)",
-      "ratingChange": -60,
+      "recentContest": "Codeforces Round 1084 (Div. 3)",
+      "ratingChange": -58,
       "solvedCount": 34
     },
     {
@@ -402,10 +402,10 @@
       "grade": "2025 级",
       "handle": "nanhaijuzi",
       "rating": 864,
-      "maxRating": 995,
+      "maxRating": 981,
       "rank": "newbie",
-      "recentContest": "Codeforces Round 1095 (Div. 2)",
-      "ratingChange": 5,
+      "recentContest": "Codeforces Round 1071 (Div. 3)",
+      "ratingChange": -85,
       "solvedCount": 16
     },
     {
@@ -415,8 +415,8 @@
       "rating": 850,
       "maxRating": 951,
       "rank": "newbie",
-      "recentContest": "Codeforces Round 1093 (Div. 2)",
-      "ratingChange": -2,
+      "recentContest": "Codeforces Round 1087 (Div. 2)",
+      "ratingChange": -59,
       "solvedCount": 33
     },
     {
@@ -426,8 +426,8 @@
       "rating": 834,
       "maxRating": 906,
       "rank": "newbie",
-      "recentContest": "Codeforces Round 1093 (Div. 2)",
-      "ratingChange": 27,
+      "recentContest": "Educational Codeforces Round 188 (Rated for Div. 2)",
+      "ratingChange": -56,
       "solvedCount": 19
     },
     {
@@ -437,8 +437,8 @@
       "rating": 817,
       "maxRating": 1073,
       "rank": "newbie",
-      "recentContest": "Educational Codeforces Round 190 (Rated for Div. 2)",
-      "ratingChange": -9,
+      "recentContest": "Codeforces Round 1087 (Div. 2)",
+      "ratingChange": -32,
       "solvedCount": 51
     },
     {
@@ -446,10 +446,10 @@
       "grade": "2025 级",
       "handle": "lilingyu..",
       "rating": 817,
-      "maxRating": 973,
+      "maxRating": 0,
       "rank": "newbie",
-      "recentContest": "Codeforces Round 1099 (Div. 2)",
-      "ratingChange": -55,
+      "recentContest": "无",
+      "ratingChange": 0,
       "solvedCount": 28
     },
     {
@@ -459,8 +459,8 @@
       "rating": 806,
       "maxRating": 878,
       "rank": "newbie",
-      "recentContest": "Spectral::Cup 2026 Round 1 (Codeforces Round 1094, Div. 1 + Div. 2)",
-      "ratingChange": 40,
+      "recentContest": "Codeforces Round 1087 (Div. 2)",
+      "ratingChange": 67,
       "solvedCount": 21
     },
     {
@@ -470,8 +470,8 @@
       "rating": 805,
       "maxRating": 883,
       "rank": "newbie",
-      "recentContest": "Codeforces Round 1096 (Div. 3)",
-      "ratingChange": 67,
+      "recentContest": "Codeforces Round 1087 (Div. 2)",
+      "ratingChange": 53,
       "solvedCount": 42
     },
     {
@@ -481,8 +481,8 @@
       "rating": 803,
       "maxRating": 956,
       "rank": "newbie",
-      "recentContest": "Codeforces Round 1095 (Div. 2)",
-      "ratingChange": 71,
+      "recentContest": "Codeforces Round 1082 (Div. 2)",
+      "ratingChange": -3,
       "solvedCount": 26
     }
   ]
