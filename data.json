@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-24T15:07:16.882942",
+  "last_update": "2026-05-24T17:06:50.224412",
   "users": [
     {
       "name": "宁思禹",
@@ -143,17 +143,6 @@
       "recentContest": "Codeforces Round 1099 (Div. 2)",
       "ratingChange": 110,
       "solvedCount": 136
-    },
-    {
-      "name": "李忆恩",
-      "grade": "2025 级",
-      "handle": "jim_jrodan",
-      "rating": 1259,
-      "maxRating": 1259,
-      "rank": "pupil",
-      "recentContest": "Codeforces Round 1098 (Div. 2)",
-      "ratingChange": 108,
-      "solvedCount": 102
     },
     {
       "name": "李海瑜",
