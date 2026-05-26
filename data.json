@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-26T07:54:00.289882",
+  "last_update": "2026-05-26T15:39:36.915749",
   "users": [
     {
       "name": "宁思禹",
@@ -43,7 +43,7 @@
       "rank": "specialist",
       "recentContest": "Codeforces Round 1099 (Div. 2)",
       "ratingChange": 11,
-      "solvedCount": 467
+      "solvedCount": 468
     },
     {
       "name": "李昶昊",
@@ -65,7 +65,7 @@
       "rank": "specialist",
       "recentContest": "Codeforces Round 1099 (Div. 2)",
       "ratingChange": 60,
-      "solvedCount": 572
+      "solvedCount": 574
     },
     {
       "name": "王义博",
@@ -164,7 +164,7 @@
       "rank": "pupil",
       "recentContest": "Codeforces Round 1099 (Div. 2)",
       "ratingChange": -34,
-      "solvedCount": 667
+      "solvedCount": 669
     },
     {
       "name": "侯轶棠",
@@ -186,7 +186,7 @@
       "rank": "pupil",
       "recentContest": "Codeforces Round 1099 (Div. 2)",
       "ratingChange": 15,
-      "solvedCount": 183
+      "solvedCount": 184
     },
     {
       "name": "王巍",
@@ -197,7 +197,7 @@
       "rank": "pupil",
       "recentContest": "Educational Codeforces Round 190 (Rated for Div. 2)",
       "ratingChange": 36,
-      "solvedCount": 85
+      "solvedCount": 90
     },
     {
       "name": "周佳影",
@@ -208,7 +208,7 @@
       "rank": "pupil",
       "recentContest": "Codeforces Round 1099 (Div. 2)",
       "ratingChange": -45,
-      "solvedCount": 115
+      "solvedCount": 119
     },
     {
       "name": "栗晟皓",
@@ -263,7 +263,7 @@
       "rank": "newbie",
       "recentContest": "Educational Codeforces Round 190 (Rated for Div. 2)",
       "ratingChange": 27,
-      "solvedCount": 35
+      "solvedCount": 36
     },
     {
       "name": "张玉桂",
@@ -340,7 +340,7 @@
       "rank": "newbie",
       "recentContest": "Codeforces Round 1098 (Div. 2)",
       "ratingChange": 49,
-      "solvedCount": 97
+      "solvedCount": 98
     },
     {
       "name": "郑于威",
