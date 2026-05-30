@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-30T17:10:52.085128",
+  "last_update": "2026-05-30T19:21:43.007849",
   "users": [
     {
       "name": "宁思禹",
@@ -49,12 +49,12 @@
       "name": "李昶昊",
       "grade": "2024 级",
       "handle": "_HP",
-      "rating": 1509,
+      "rating": 1486,
       "maxRating": 1509,
       "rank": "specialist",
-      "recentContest": "Codeforces Round 1099 (Div. 2)",
-      "ratingChange": 131,
-      "solvedCount": 289
+      "recentContest": "Codeforces Round 1101 (Div. 2)",
+      "ratingChange": -23,
+      "solvedCount": 293
     },
     {
       "name": "马傲博",
@@ -109,7 +109,7 @@
       "rank": "pupil",
       "recentContest": "Codeforces Round 1098 (Div. 2)",
       "ratingChange": 40,
-      "solvedCount": 351
+      "solvedCount": 352
     },
     {
       "name": "强锦铭",
@@ -121,6 +121,17 @@
       "recentContest": "Educational Codeforces Round 189 (Rated for Div. 2)",
       "ratingChange": -26,
       "solvedCount": 279
+    },
+    {
+      "name": "李海瑜",
+      "grade": "2024 级",
+      "handle": "iyu0",
+      "rating": 1299,
+      "maxRating": 1392,
+      "rank": "pupil",
+      "recentContest": "Codeforces Round 1101 (Div. 2)",
+      "ratingChange": 44,
+      "solvedCount": 689
     },
     {
       "name": "曹继喆",
@@ -154,17 +165,6 @@
       "recentContest": "Codeforces Round 1098 (Div. 2)",
       "ratingChange": 108,
       "solvedCount": 107
-    },
-    {
-      "name": "李海瑜",
-      "grade": "2024 级",
-      "handle": "iyu0",
-      "rating": 1255,
-      "maxRating": 1392,
-      "rank": "pupil",
-      "recentContest": "Codeforces Round 1099 (Div. 2)",
-      "ratingChange": -34,
-      "solvedCount": 686
     },
     {
       "name": "侯轶棠",
