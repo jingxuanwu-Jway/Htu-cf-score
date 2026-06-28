@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-28T00:07:05.823998",
+  "last_update": "2026-06-28T05:20:20.209033",
   "users": [
     {
       "name": "宁思禹",
@@ -33,6 +33,17 @@
       "recentContest": "Educational Codeforces Round 191 (Rated for Div. 2)",
       "ratingChange": 38,
       "solvedCount": 418
+    },
+    {
+      "name": "吴静轩",
+      "grade": "2024 级",
+      "handle": "Tbat",
+      "rating": 1519,
+      "maxRating": 1522,
+      "rank": "specialist",
+      "recentContest": "Educational Codeforces Round 191 (Rated for Div. 2)",
+      "ratingChange": 45,
+      "solvedCount": 485
     },
     {
       "name": "马傲博",
@@ -230,7 +241,7 @@
       "rank": "pupil",
       "recentContest": "Educational Codeforces Round 191 (Rated for Div. 2)",
       "ratingChange": 71,
-      "solvedCount": 1035
+      "solvedCount": 1036
     },
     {
       "name": "栗晟皓",
@@ -242,6 +253,17 @@
       "recentContest": "Codeforces Round 1095 (Div. 2)",
       "ratingChange": 0,
       "solvedCount": 74
+    },
+    {
+      "name": "孙艺菲",
+      "grade": "2025 级",
+      "handle": "s1fzzz",
+      "rating": 1170,
+      "maxRating": 1196,
+      "rank": "newbie",
+      "recentContest": "Codeforces Round 1102 (Div. 2)",
+      "ratingChange": -26,
+      "solvedCount": 92
     },
     {
       "name": "貌克宇",
@@ -352,6 +374,17 @@
       "recentContest": "Codeforces Round 1077 (Div. 2)",
       "ratingChange": -60,
       "solvedCount": 8
+    },
+    {
+      "name": "刘敬泽",
+      "grade": "2025 级",
+      "handle": "anyidemao",
+      "rating": 931,
+      "maxRating": 973,
+      "rank": "newbie",
+      "recentContest": "Codeforces Round 1102 (Div. 2)",
+      "ratingChange": 39,
+      "solvedCount": 36
     },
     {
       "name": "朱宏璟",
