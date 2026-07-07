@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-07T14:42:30.538961",
+  "last_update": "2026-07-07T17:18:28.750876",
   "users": [
     {
       "name": "宁思禹",
@@ -200,6 +200,17 @@
       "solvedCount": 90
     },
     {
+      "name": "梁敬泽",
+      "grade": "2025 级",
+      "handle": "Ljzmlx",
+      "rating": 1218,
+      "maxRating": 1218,
+      "rank": "pupil",
+      "recentContest": "Codeforces Round 1103 (Div. 3)",
+      "ratingChange": 64,
+      "solvedCount": 103
+    },
+    {
       "name": "李忆恩",
       "grade": "2025 级",
       "handle": "jim_jrodan",
@@ -231,6 +242,17 @@
       "recentContest": "Educational Codeforces Round 191 (Rated for Div. 2)",
       "ratingChange": 71,
       "solvedCount": 1039
+    },
+    {
+      "name": "栗晟皓",
+      "grade": "2024 级",
+      "handle": "lichenghao",
+      "rating": 1199,
+      "maxRating": 1214,
+      "rank": "newbie",
+      "recentContest": "Codeforces Round 1095 (Div. 2)",
+      "ratingChange": 0,
+      "solvedCount": 74
     },
     {
       "name": "孙艺菲",
@@ -373,6 +395,17 @@
       "rank": "newbie",
       "recentContest": "Codeforces Round 1091 (Div. 2) and CodeCraft 26",
       "ratingChange": 70,
+      "solvedCount": 16
+    },
+    {
+      "name": "赵庆淇",
+      "grade": "2025 级",
+      "handle": "nanhaijuzi",
+      "rating": 864,
+      "maxRating": 996,
+      "rank": "newbie",
+      "recentContest": "Educational Codeforces Round 189 (Rated for Div. 2)",
+      "ratingChange": -38,
       "solvedCount": 16
     },
     {
