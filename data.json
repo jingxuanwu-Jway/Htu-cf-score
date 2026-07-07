@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-07T21:38:45.292081",
+  "last_update": "2026-07-07T23:05:11.646417",
   "users": [
     {
       "name": "宁思禹",
@@ -165,6 +165,17 @@
       "recentContest": "Codeforces Round 1106 (Div. 2)",
       "ratingChange": -1,
       "solvedCount": 159
+    },
+    {
+      "name": "申海辰",
+      "grade": "2024 级",
+      "handle": "monesytop1",
+      "rating": 1244,
+      "maxRating": 1260,
+      "rank": "pupil",
+      "recentContest": "Codeforces Round 1099 (Div. 2)",
+      "ratingChange": 15,
+      "solvedCount": 184
     },
     {
       "name": "段荆玺",
