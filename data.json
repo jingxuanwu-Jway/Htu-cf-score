@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-11T10:19:01.790704",
+  "last_update": "2026-07-11T11:55:46.330377",
   "users": [
     {
       "name": "宁思禹",
@@ -299,6 +299,17 @@
       "solvedCount": 61
     },
     {
+      "name": "靳宇翔",
+      "grade": "2025 级",
+      "handle": "changf",
+      "rating": 1029,
+      "maxRating": 1043,
+      "rank": "newbie",
+      "recentContest": "Educational Codeforces Round 190 (Rated for Div. 2)",
+      "ratingChange": -14,
+      "solvedCount": 34
+    },
+    {
       "name": "李昆鹏",
       "grade": "2025 级",
       "handle": "likunpeng",
@@ -440,6 +451,17 @@
       "recentContest": "Educational Codeforces Round 190 (Rated for Div. 2)",
       "ratingChange": -9,
       "solvedCount": 51
+    },
+    {
+      "name": "王金燕",
+      "grade": "2025 级",
+      "handle": "w19511030691",
+      "rating": 814,
+      "maxRating": 878,
+      "rank": "newbie",
+      "recentContest": "Spectral::Cup 2026 Round 1 (Codeforces Round 1094, Div. 1 + Div. 2)",
+      "ratingChange": 40,
+      "solvedCount": 21
     },
     {
       "name": "张稳泉",
