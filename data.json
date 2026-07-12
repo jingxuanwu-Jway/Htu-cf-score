@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-12T03:34:45.699674",
+  "last_update": "2026-07-12T06:36:05.251752",
   "users": [
     {
       "name": "宁思禹",
@@ -44,6 +44,17 @@
       "recentContest": "Educational Codeforces Round 191 (Rated for Div. 2)",
       "ratingChange": 45,
       "solvedCount": 485
+    },
+    {
+      "name": "马傲博",
+      "grade": "2024 级",
+      "handle": "maj_22",
+      "rating": 1462,
+      "maxRating": 1462,
+      "rank": "specialist",
+      "recentContest": "Codeforces Round 1102 (Div. 2)",
+      "ratingChange": 7,
+      "solvedCount": 601
     },
     {
       "name": "李海瑜",
