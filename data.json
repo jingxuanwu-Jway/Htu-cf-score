@@ -1,17 +1,6 @@
 {
-  "last_update": "2026-07-26T15:08:19.223087",
+  "last_update": "2026-07-26T17:08:12.779449",
   "users": [
-    {
-      "name": "宁思禹",
-      "grade": "2024 级",
-      "handle": "anoslide",
-      "rating": 1605,
-      "maxRating": 1657,
-      "rank": "expert",
-      "recentContest": "Educational Codeforces Round 190 (Rated for Div. 2)",
-      "ratingChange": -6,
-      "solvedCount": 298
-    },
     {
       "name": "吴帅甫",
       "grade": "2023 级",
@@ -44,17 +33,6 @@
       "recentContest": "Educational Codeforces Round 191 (Rated for Div. 2)",
       "ratingChange": 45,
       "solvedCount": 485
-    },
-    {
-      "name": "马傲博",
-      "grade": "2024 级",
-      "handle": "maj_22",
-      "rating": 1462,
-      "maxRating": 1462,
-      "rank": "specialist",
-      "recentContest": "Codeforces Round 1102 (Div. 2)",
-      "ratingChange": 7,
-      "solvedCount": 626
     },
     {
       "name": "李海瑜",
@@ -186,7 +164,7 @@
       "rank": "pupil",
       "recentContest": "Codeforces Round 1103 (Div. 3)",
       "ratingChange": 9,
-      "solvedCount": 212
+      "solvedCount": 214
     },
     {
       "name": "王巍",
