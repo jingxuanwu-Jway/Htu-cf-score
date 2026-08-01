@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-01T17:03:50.576953",
+  "last_update": "2026-08-01T19:11:59.948088",
   "users": [
     {
       "name": "宁思禹",
@@ -54,7 +54,7 @@
       "rank": "specialist",
       "recentContest": "Codeforces Round 1102 (Div. 2)",
       "ratingChange": 7,
-      "solvedCount": 652
+      "solvedCount": 654
     },
     {
       "name": "李海瑜",
@@ -90,6 +90,17 @@
       "solvedCount": 204
     },
     {
+      "name": "李宇恒",
+      "grade": "2025 级",
+      "handle": "liyyuu",
+      "rating": 1398,
+      "maxRating": 1398,
+      "rank": "pupil",
+      "recentContest": "Codeforces Round 1113 (Div. 2)",
+      "ratingChange": 96,
+      "solvedCount": 392
+    },
+    {
       "name": "李昶昊",
       "grade": "2024 级",
       "handle": "_HP",
@@ -121,17 +132,6 @@
       "recentContest": "Educational Codeforces Round 189 (Rated for Div. 2)",
       "ratingChange": -26,
       "solvedCount": 280
-    },
-    {
-      "name": "李宇恒",
-      "grade": "2025 级",
-      "handle": "liyyuu",
-      "rating": 1302,
-      "maxRating": 1366,
-      "rank": "pupil",
-      "recentContest": "Codeforces Round 1111 (Div. 2)",
-      "ratingChange": -28,
-      "solvedCount": 392
     },
     {
       "name": "曹继喆",
@@ -222,17 +222,6 @@
       "solvedCount": 138
     },
     {
-      "name": "周佳影",
-      "grade": "2025 级",
-      "handle": "XYZz-",
-      "rating": 1212,
-      "maxRating": 1308,
-      "rank": "pupil",
-      "recentContest": "Codeforces Round 1099 (Div. 2)",
-      "ratingChange": -45,
-      "solvedCount": 135
-    },
-    {
       "name": "张玉桂",
       "grade": "2024 级",
       "handle": "zygnb",
@@ -253,6 +242,17 @@
       "recentContest": "Codeforces Round 1095 (Div. 2)",
       "ratingChange": 0,
       "solvedCount": 74
+    },
+    {
+      "name": "周佳影",
+      "grade": "2025 级",
+      "handle": "XYZz-",
+      "rating": 1173,
+      "maxRating": 1308,
+      "rank": "newbie",
+      "recentContest": "Codeforces Round 1113 (Div. 2)",
+      "ratingChange": -39,
+      "solvedCount": 135
     },
     {
       "name": "孙艺菲",
