@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-13T13:16:27.036708",
+  "last_update": "2026-08-13T15:00:57.353517",
   "users": [
     {
       "name": "宁思禹",
@@ -54,7 +54,7 @@
       "rank": "specialist",
       "recentContest": "Codeforces Round 1102 (Div. 2)",
       "ratingChange": 7,
-      "solvedCount": 707
+      "solvedCount": 708
     },
     {
       "name": "李海瑜",
@@ -175,7 +175,7 @@
       "rank": "pupil",
       "recentContest": "Codeforces Round 1116 (Div. 2)",
       "ratingChange": -42,
-      "solvedCount": 256
+      "solvedCount": 257
     },
     {
       "name": "王巍",
