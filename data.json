@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-18T20:27:13.449241",
+  "last_update": "2026-08-18T21:27:54.347993",
   "users": [
     {
       "name": "宁思禹",
@@ -231,17 +231,6 @@
       "recentContest": "Educational Codeforces Round 191 (Rated for Div. 2)",
       "ratingChange": 71,
       "solvedCount": 1110
-    },
-    {
-      "name": "栗晟皓",
-      "grade": "2024 级",
-      "handle": "lichenghao",
-      "rating": 1199,
-      "maxRating": 1214,
-      "rank": "newbie",
-      "recentContest": "Codeforces Round 1095 (Div. 2)",
-      "ratingChange": 0,
-      "solvedCount": 74
     },
     {
       "name": "孙艺菲",
