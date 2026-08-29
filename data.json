@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-29T06:10:46.039687",
+  "last_update": "2026-08-29T13:02:48.286582",
   "users": [
     {
       "name": "宁思禹",
@@ -65,7 +65,7 @@
       "rank": "specialist",
       "recentContest": "Codeforces Round 1103 (Div. 3)",
       "ratingChange": 22,
-      "solvedCount": 948
+      "solvedCount": 952
     },
     {
       "name": "赵柯行",
@@ -88,17 +88,6 @@
       "recentContest": "Educational Codeforces Round 191 (Rated for Div. 2)",
       "ratingChange": -34,
       "solvedCount": 204
-    },
-    {
-      "name": "李宇恒",
-      "grade": "2025 级",
-      "handle": "liyyuu",
-      "rating": 1399,
-      "maxRating": 1399,
-      "rank": "pupil",
-      "recentContest": "Codeforces Round 1113 (Div. 2)",
-      "ratingChange": 97,
-      "solvedCount": 395
     },
     {
       "name": "李昶昊",
@@ -134,28 +123,6 @@
       "solvedCount": 280
     },
     {
-      "name": "李昊洋",
-      "grade": "2024 级",
-      "handle": "LHY0715",
-      "rating": 1277,
-      "maxRating": 1277,
-      "rank": "pupil",
-      "recentContest": "Codeforces Round 1114 (Div. 3)",
-      "ratingChange": 5,
-      "solvedCount": 171
-    },
-    {
-      "name": "侯轶棠",
-      "grade": "2025 级",
-      "handle": "biyuf",
-      "rating": 1270,
-      "maxRating": 1321,
-      "rank": "pupil",
-      "recentContest": "Educational Codeforces Round 191 (Rated for Div. 2)",
-      "ratingChange": 25,
-      "solvedCount": 189
-    },
-    {
       "name": "段荆玺",
       "grade": "2025 级",
       "handle": "buhuizuo",
@@ -164,7 +131,7 @@
       "rank": "pupil",
       "recentContest": "Codeforces Round 1117 (Div. 2)",
       "ratingChange": 16,
-      "solvedCount": 272
+      "solvedCount": 274
     },
     {
       "name": "申海辰",
@@ -230,18 +197,7 @@
       "rank": "pupil",
       "recentContest": "Educational Codeforces Round 191 (Rated for Div. 2)",
       "ratingChange": 71,
-      "solvedCount": 1126
-    },
-    {
-      "name": "栗晟皓",
-      "grade": "2024 级",
-      "handle": "lichenghao",
-      "rating": 1199,
-      "maxRating": 1214,
-      "rank": "newbie",
-      "recentContest": "Codeforces Round 1095 (Div. 2)",
-      "ratingChange": 0,
-      "solvedCount": 74
+      "solvedCount": 1127
     },
     {
       "name": "孙艺菲",
