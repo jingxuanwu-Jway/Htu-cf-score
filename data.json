@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-24T01:13:45.651715",
+  "last_update": "2026-09-24T07:23:34.382223",
   "users": [
     {
       "name": "宁思禹",
@@ -43,7 +43,7 @@
       "rank": "specialist",
       "recentContest": "Educational Codeforces Round 191 (Rated for Div. 2)",
       "ratingChange": 45,
-      "solvedCount": 0
+      "solvedCount": 487
     },
     {
       "name": "马傲博",
@@ -54,7 +54,7 @@
       "rank": "specialist",
       "recentContest": "Codeforces Round 1102 (Div. 2)",
       "ratingChange": 7,
-      "solvedCount": 0
+      "solvedCount": 756
     },
     {
       "name": "李宇恒",
@@ -76,7 +76,7 @@
       "rank": "specialist",
       "recentContest": "Codeforces Round 1103 (Div. 3)",
       "ratingChange": 22,
-      "solvedCount": 0
+      "solvedCount": 1013
     },
     {
       "name": "赵柯行",
@@ -87,7 +87,7 @@
       "rank": "specialist",
       "recentContest": "Codeforces Round 1091 (Div. 2) and CodeCraft 26",
       "ratingChange": 60,
-      "solvedCount": 0
+      "solvedCount": 313
     },
     {
       "name": "王义博",
@@ -109,7 +109,7 @@
       "rank": "pupil",
       "recentContest": "Educational Codeforces Round 191 (Rated for Div. 2)",
       "ratingChange": -104,
-      "solvedCount": 0
+      "solvedCount": 354
     },
     {
       "name": "余锦昊",
@@ -131,7 +131,7 @@
       "rank": "pupil",
       "recentContest": "Educational Codeforces Round 189 (Rated for Div. 2)",
       "ratingChange": -26,
-      "solvedCount": 0
+      "solvedCount": 282
     },
     {
       "name": "段荆玺",
@@ -142,7 +142,7 @@
       "rank": "pupil",
       "recentContest": "Codeforces Round 1122 (Div. 3)",
       "ratingChange": -28,
-      "solvedCount": 0
+      "solvedCount": 297
     },
     {
       "name": "李昊洋",
@@ -153,7 +153,7 @@
       "rank": "pupil",
       "recentContest": "Codeforces Round 1114 (Div. 3)",
       "ratingChange": 5,
-      "solvedCount": 0
+      "solvedCount": 185
     },
     {
       "name": "侯轶棠",
@@ -175,7 +175,7 @@
       "rank": "pupil",
       "recentContest": "Codeforces Round 1099 (Div. 2)",
       "ratingChange": 15,
-      "solvedCount": 194
+      "solvedCount": 196
     },
     {
       "name": "王巍",
@@ -230,7 +230,7 @@
       "rank": "pupil",
       "recentContest": "Educational Codeforces Round 191 (Rated for Div. 2)",
       "ratingChange": 71,
-      "solvedCount": 1147
+      "solvedCount": 1148
     },
     {
       "name": "栗晟皓",
