@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-11T23:37:13.777947",
+  "last_update": "2026-10-12T04:56:35.635688",
   "users": [
     {
       "name": "宁思禹",
@@ -43,7 +43,7 @@
       "rank": "specialist",
       "recentContest": "Codeforces Round 1123 (Div. 2)",
       "ratingChange": 112,
-      "solvedCount": 1049
+      "solvedCount": 1050
     },
     {
       "name": "吴静轩",
@@ -87,7 +87,7 @@
       "rank": "specialist",
       "recentContest": "DeepInfra Round 1 (Codeforces Round 1126, Div. 1 + Div. 2)",
       "ratingChange": -6,
-      "solvedCount": 342
+      "solvedCount": 343
     },
     {
       "name": "赵柯行",
