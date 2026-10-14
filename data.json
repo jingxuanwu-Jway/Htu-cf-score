@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-14T14:57:16.407821",
+  "last_update": "2026-10-14T19:14:54.790357",
   "users": [
     {
       "name": "宁思禹",
@@ -65,7 +65,7 @@
       "rank": "specialist",
       "recentContest": "DeepInfra Round 1 (Codeforces Round 1126, Div. 1 + Div. 2)",
       "ratingChange": -21,
-      "solvedCount": 460
+      "solvedCount": 463
     },
     {
       "name": "马傲博",
@@ -87,7 +87,7 @@
       "rank": "specialist",
       "recentContest": "DeepInfra Round 1 (Codeforces Round 1126, Div. 1 + Div. 2)",
       "ratingChange": -6,
-      "solvedCount": 349
+      "solvedCount": 352
     },
     {
       "name": "赵柯行",
@@ -395,7 +395,7 @@
       "rank": "newbie",
       "recentContest": "DeepInfra Round 1 (Codeforces Round 1126, Div. 1 + Div. 2)",
       "ratingChange": 73,
-      "solvedCount": 61
+      "solvedCount": 64
     },
     {
       "name": "朱宏璟",
