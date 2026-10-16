@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-16T10:57:59.411572",
+  "last_update": "2026-10-16T15:22:16.571905",
   "users": [
     {
       "name": "宁思禹",
@@ -65,7 +65,7 @@
       "rank": "specialist",
       "recentContest": "Educational Codeforces Round 195 (Rated for Div. 2)",
       "ratingChange": -1,
-      "solvedCount": 468
+      "solvedCount": 470
     },
     {
       "name": "段荆玺",
@@ -76,7 +76,7 @@
       "rank": "specialist",
       "recentContest": "Educational Codeforces Round 195 (Rated for Div. 2)",
       "ratingChange": 22,
-      "solvedCount": 353
+      "solvedCount": 354
     },
     {
       "name": "马傲博",
@@ -121,17 +121,6 @@
       "recentContest": "Educational Codeforces Round 191 (Rated for Div. 2)",
       "ratingChange": -104,
       "solvedCount": 373
-    },
-    {
-      "name": "余锦昊",
-      "grade": "2024 级",
-      "handle": "yokin",
-      "rating": 1376,
-      "maxRating": 1445,
-      "rank": "pupil",
-      "recentContest": "Spectral::Cup 2026 Round 1 (Codeforces Round 1094, Div. 1 + Div. 2)",
-      "ratingChange": -15,
-      "solvedCount": 414
     },
     {
       "name": "强锦铭",
@@ -274,7 +263,7 @@
       "rank": "newbie",
       "recentContest": "DeepInfra Round 1 (Codeforces Round 1126, Div. 1 + Div. 2)",
       "ratingChange": -72,
-      "solvedCount": 154
+      "solvedCount": 155
     },
     {
       "name": "单鑫亮",
