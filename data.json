@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-23T07:09:06.345581",
+  "last_update": "2026-10-23T13:12:06.273520",
   "users": [
     {
       "name": "宁思禹",
@@ -352,6 +352,17 @@
       "recentContest": "Codeforces Round 1102 (Div. 2)",
       "ratingChange": -9,
       "solvedCount": 101
+    },
+    {
+      "name": "郑于威",
+      "grade": "2023 级",
+      "handle": "zhengxiaomei",
+      "rating": 956,
+      "maxRating": 1112,
+      "rank": "newbie",
+      "recentContest": "Codeforces Round 1098 (Div. 2)",
+      "ratingChange": 30,
+      "solvedCount": 106
     },
     {
       "name": "王思哲",
