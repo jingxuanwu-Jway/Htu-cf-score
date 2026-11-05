@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-05T05:41:32.418250",
+  "last_update": "2026-11-05T14:14:15.246921",
   "users": [
     {
       "name": "宁思禹",
@@ -43,7 +43,7 @@
       "rank": "specialist",
       "recentContest": "Codeforces Round 1123 (Div. 2)",
       "ratingChange": 119,
-      "solvedCount": 1082
+      "solvedCount": 1083
     },
     {
       "name": "吴静轩",
@@ -288,6 +288,17 @@
       "solvedCount": 53
     },
     {
+      "name": "李昆鹏",
+      "grade": "2025 级",
+      "handle": "likunpeng",
+      "rating": 1079,
+      "maxRating": 1079,
+      "rank": "newbie",
+      "recentContest": "Educational Codeforces Round 196 (Rated for Div. 2)",
+      "ratingChange": 36,
+      "solvedCount": 54
+    },
+    {
       "name": "石熙琛",
       "grade": "2025 级",
       "handle": "ttwansuiye",
@@ -302,23 +313,12 @@
       "name": "靳宇翔",
       "grade": "2025 级",
       "handle": "changf",
-      "rating": 1049,
+      "rating": 1032,
       "maxRating": 1049,
       "rank": "newbie",
-      "recentContest": "Codeforces Round 1131 (Div. 3)",
-      "ratingChange": 20,
+      "recentContest": "Educational Codeforces Round 196 (Rated for Div. 2)",
+      "ratingChange": -17,
       "solvedCount": 41
-    },
-    {
-      "name": "李昆鹏",
-      "grade": "2025 级",
-      "handle": "likunpeng",
-      "rating": 1043,
-      "maxRating": 1061,
-      "rank": "newbie",
-      "recentContest": "Codeforces Round 1131 (Div. 3)",
-      "ratingChange": 24,
-      "solvedCount": 54
     },
     {
       "name": "安齐镭",
@@ -343,14 +343,25 @@
       "solvedCount": 105
     },
     {
+      "name": "王思哲",
+      "grade": "2025 级",
+      "handle": "warning......",
+      "rating": 985,
+      "maxRating": 1010,
+      "rank": "newbie",
+      "recentContest": "Educational Codeforces Round 196 (Rated for Div. 2)",
+      "ratingChange": 49,
+      "solvedCount": 50
+    },
+    {
       "name": "李领玉",
       "grade": "2025 级",
       "handle": "lilingyu..",
-      "rating": 979,
+      "rating": 964,
       "maxRating": 1018,
       "rank": "newbie",
-      "recentContest": "Codeforces Round 1131 (Div. 3)",
-      "ratingChange": -39,
+      "recentContest": "Educational Codeforces Round 196 (Rated for Div. 2)",
+      "ratingChange": -15,
       "solvedCount": 85
     },
     {
@@ -363,17 +374,6 @@
       "recentContest": "Codeforces Round 1098 (Div. 2)",
       "ratingChange": 30,
       "solvedCount": 106
-    },
-    {
-      "name": "王思哲",
-      "grade": "2025 级",
-      "handle": "warning......",
-      "rating": 936,
-      "maxRating": 1010,
-      "rank": "newbie",
-      "recentContest": "Codeforces Round 1098 (Div. 2)",
-      "ratingChange": 23,
-      "solvedCount": 50
     },
     {
       "name": "秦旭阳",
