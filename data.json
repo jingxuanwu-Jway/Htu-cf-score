@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-12T09:26:58.124374",
+  "last_update": "2026-11-12T17:59:05.077785",
   "users": [
     {
       "name": "宁思禹",
@@ -54,7 +54,7 @@
       "rank": "specialist",
       "recentContest": "Educational Codeforces Round 191 (Rated for Div. 2)",
       "ratingChange": 45,
-      "solvedCount": 505
+      "solvedCount": 507
     },
     {
       "name": "段荆玺",
@@ -65,7 +65,7 @@
       "rank": "specialist",
       "recentContest": "Educational Codeforces Round 195 (Rated for Div. 2)",
       "ratingChange": 22,
-      "solvedCount": 420
+      "solvedCount": 423
     },
     {
       "name": "李宇恒",
@@ -76,7 +76,7 @@
       "rank": "specialist",
       "recentContest": "Codeforces Round 1131 (Div. 3)",
       "ratingChange": 4,
-      "solvedCount": 543
+      "solvedCount": 551
     },
     {
       "name": "马傲博",
@@ -252,7 +252,7 @@
       "rank": "newbie",
       "recentContest": "DeepInfra Round 1 (Codeforces Round 1126, Div. 1 + Div. 2)",
       "ratingChange": -62,
-      "solvedCount": 163
+      "solvedCount": 168
     },
     {
       "name": "曹继喆",
@@ -296,7 +296,7 @@
       "rank": "newbie",
       "recentContest": "Educational Codeforces Round 196 (Rated for Div. 2)",
       "ratingChange": 36,
-      "solvedCount": 66
+      "solvedCount": 67
     },
     {
       "name": "石熙琛",
@@ -362,7 +362,7 @@
       "rank": "newbie",
       "recentContest": "Educational Codeforces Round 196 (Rated for Div. 2)",
       "ratingChange": -15,
-      "solvedCount": 96
+      "solvedCount": 99
     },
     {
       "name": "郑于威",
@@ -395,7 +395,7 @@
       "rank": "newbie",
       "recentContest": "Codeforces Round 1102 (Div. 2)",
       "ratingChange": 39,
-      "solvedCount": 36
+      "solvedCount": 37
     },
     {
       "name": "朱宏璟",
